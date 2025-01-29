@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Welcome to Symposium 2025",
-    "section": "",
-    "text": "We are thrilled to invite you to our annual Symposium 2025. Join us to explore exciting developments in [your field/topic], connect with leading researchers, and contribute to groundbreaking discussions.\n\n\nOur keynote speaker this year is Dr. Jeff Leek, a world-renowned expert in [field/topic]. Dr. Jeff will present on “Future Innovations in Science and Technology”.\n\n\n\nDr. Jane Smith\n\n\n\n\n\n\nClick here to register for Symposium 2025!\n\nWe look forward to welcoming you!"
-  },
-  {
-    "objectID": "blog/index.html#keynote-speaker",
-    "href": "blog/index.html#keynote-speaker",
-    "title": "Welcome to Symposium 2025",
-    "section": "",
-    "text": "Our keynote speaker this year is Dr. Jeff Leek, a world-renowned expert in [field/topic]. Dr. Jeff will present on “Future Innovations in Science and Technology”.\n\n\n\nDr. Jane Smith"
-  },
-  {
-    "objectID": "blog/index.html#registration",
-    "href": "blog/index.html#registration",
-    "title": "Welcome to Symposium 2025",
-    "section": "",
-    "text": "Click here to register for Symposium 2025!\n\nWe look forward to welcoming you!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "",
-    "text": "We are thrilled to invite you to our annual Symposium 2025. Join us to explore exciting developments in [your field/topic], connect with leading researchers, and contribute to groundbreaking discussions.\n\n\nOur keynote speaker this year is Dr. Jeff Leek, a world-renowned expert in [field/topic]. Dr. Jeff will present on “Future Innovations in Science and Technology”.\n\n\n\nDr. Jane Smith\n\n\n\n\n\n\nClick here to register for Symposium 2025!\n\nWe look forward to welcoming you!"
-  },
-  {
     "objectID": "index.html#keynote-speaker",
     "href": "index.html#keynote-speaker",
     "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
@@ -49,11 +14,18 @@
     "text": "Registration\nClick here to register for Symposium 2025!\n\nWe look forward to welcoming you!"
   },
   {
-    "objectID": "speaker.html",
-    "href": "speaker.html",
-    "title": "Keynote Speaker",
+    "objectID": "agenda/index.html",
+    "href": "agenda/index.html",
+    "title": "Symposium Agenda",
     "section": "",
-    "text": "Meet Our Keynote Speaker: Dr. Jeff Leek\n\n\n\nDr. Jane Smith\n\n\nDr. Jane Smith is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.\n“The Future of [Your Topic]”\nDon’t miss this inspiring talk!\nBack to Home"
+    "text": "📍 Date: [Month Day, Year]\n📍 Location: [Venue Name or Virtual Link]\n\n\n\nTime\nEvent\nSpeaker/Host\n\n\n\n\n09:00 AM\nOpening Remarks\n[Host Name]\n\n\n09:30 AM\nKeynote Speech\n[Keynote Speaker]\n\n\n10:30 AM\nCoffee Break ☕\n—\n\n\n11:00 AM\nSession 1: [Session Title]\n[Speaker Name]\n\n\n12:30 PM\nLunch Break 🍽️\n—\n\n\n02:00 PM\nSession 2: [Session Title]\n[Speaker Name]\n\n\n03:30 PM\nPanel Discussion\n[Panelists]\n\n\n05:00 PM\nClosing Remarks & Networking\n[Host Name]\n\n\n\n\n\n\n\n📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
+  },
+  {
+    "objectID": "agenda/index.html#session-details",
+    "href": "agenda/index.html#session-details",
+    "title": "Symposium Agenda",
+    "section": "",
+    "text": "📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
   },
   {
     "objectID": "keynote/index.html",
@@ -63,25 +35,11 @@
     "text": "Keynote Speaker\n\n\n\n\nTitle & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]\n\n\n\nDr. [Speaker Name] is a renowned expert in [field of research]. With over X years of experience, Dr. [Speaker] has made groundbreaking contributions to [topic], including [notable achievements].\nHis/her/their work has been recognized with awards such as [Awards, Fellowships], and they have published extensively in leading journals like [Journal Names].\n\n\n\nThis keynote will cover: - ✅ [Key Topic 1] - ✅ [Key Topic 2] - ✅ [Key Topic 3]\n\n“A quote from the speaker or related to the topic.” – Dr. [Speaker Name]"
   },
   {
-    "objectID": "keynote/index.html#keynote-speaker",
-    "href": "keynote/index.html#keynote-speaker",
-    "title": "Welcome to Symposium 2025",
-    "section": "",
-    "text": "Our keynote speaker this year is Dr. Jeff Leek, a world-renowned expert in [field/topic]. Dr. Jeff will present on “Future Innovations in Science and Technology”.\n\n\n\nDr. Jane Smith"
-  },
-  {
-    "objectID": "keynote/index.html#registration",
-    "href": "keynote/index.html#registration",
-    "title": "Welcome to Symposium 2025",
-    "section": "",
-    "text": "Click here to register for Symposium 2025!\n\nWe look forward to welcoming you!"
-  },
-  {
-    "objectID": "keynote/index.html#dr.-speaker-name",
-    "href": "keynote/index.html#dr.-speaker-name",
+    "objectID": "keynote/index.html#dr.-jeff-leek",
+    "href": "keynote/index.html#dr.-jeff-leek",
     "title": "Keynote Speaker",
     "section": "",
-    "text": "Title & Affiliation\nUniversity/Institution Name\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]"
+    "text": "Title & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]"
   },
   {
     "objectID": "keynote/index.html#about-the-speaker",
@@ -96,26 +54,5 @@
     "title": "Keynote Speaker",
     "section": "",
     "text": "This keynote will cover: - ✅ [Key Topic 1] - ✅ [Key Topic 2] - ✅ [Key Topic 3]\n\n“A quote from the speaker or related to the topic.” – Dr. [Speaker Name]"
-  },
-  {
-    "objectID": "keynote/index.html#dr.-jeff-leek",
-    "href": "keynote/index.html#dr.-jeff-leek",
-    "title": "Keynote Speaker",
-    "section": "",
-    "text": "Title & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]"
-  },
-  {
-    "objectID": "agenda/index.html",
-    "href": "agenda/index.html",
-    "title": "Symposium Agenda",
-    "section": "",
-    "text": "📍 Date: [Month Day, Year]\n📍 Location: [Venue Name or Virtual Link]\n\n\n\nTime\nEvent\nSpeaker/Host\n\n\n\n\n09:00 AM\nOpening Remarks\n[Host Name]\n\n\n09:30 AM\nKeynote Speech\n[Keynote Speaker]\n\n\n10:30 AM\nCoffee Break ☕\n—\n\n\n11:00 AM\nSession 1: [Session Title]\n[Speaker Name]\n\n\n12:30 PM\nLunch Break 🍽️\n—\n\n\n02:00 PM\nSession 2: [Session Title]\n[Speaker Name]\n\n\n03:30 PM\nPanel Discussion\n[Panelists]\n\n\n05:00 PM\nClosing Remarks & Networking\n[Host Name]\n\n\n\n\n\n\n\n📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
-  },
-  {
-    "objectID": "agenda/index.html#session-details",
-    "href": "agenda/index.html#session-details",
-    "title": "Symposium Agenda",
-    "section": "",
-    "text": "📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
   }
 ]
