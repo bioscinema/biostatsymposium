@@ -23,12 +23,12 @@ website:
       # - href: about/index.qmd
       #   text: About
   page-footer:
-    left: "Copyright 2022, Marie Curie"
-    right:
-      - icon: github
-        href: https://github.com/mariecurie
-      - icon: twitter
-        href: https://twitter.com/mariecurie
+    # left: "Copyright 2022, Marie Curie"
+    # right:
+    #   - icon: github
+    #     href: https://github.com/mariecurie
+    #   - icon: twitter
+    #     href: https://twitter.com/mariecurie
     background: "#536878"
 
 date-format: "D MMMM YYYY"
