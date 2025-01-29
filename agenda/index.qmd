@@ -1,0 +1,42 @@
+---
+title: "Symposium Agenda"
+format: html
+---
+
+# 📅 Symposium Agenda
+
+📍 **Date:** \[Month Day, Year\]\
+📍 **Location:** \[Venue Name or Virtual Link\]
+
+| Time     | Event                        | Speaker/Host        |
+|----------|------------------------------|---------------------|
+| 09:00 AM | Opening Remarks              | \[Host Name\]       |
+| 09:30 AM | Keynote Speech               | \[Keynote Speaker\] |
+| 10:30 AM | Coffee Break ☕              | ---                 |
+| 11:00 AM | Session 1: \[Session Title\] | \[Speaker Name\]    |
+| 12:30 PM | Lunch Break 🍽️               | ---                 |
+| 02:00 PM | Session 2: \[Session Title\] | \[Speaker Name\]    |
+| 03:30 PM | Panel Discussion             | \[Panelists\]       |
+| 05:00 PM | Closing Remarks & Networking | \[Host Name\]       |
+
+## 📝 Session Details
+
+### 🎤 Session 1: \[Session Title\]
+
+📍 **Speaker:** \[Speaker Name\]\
+📍 **Topic:** \[Short Description\]\
+📍 **Time:** \[Time Slot\]
+
+[Read More](session1.qmd)
+
+### 🗣️ Panel Discussion: \[Topic\]
+
+📍 **Panelists:** \[Names\]\
+📍 **Time:** \[Time Slot\]
+
+[Read More](panel.qmd)
+
+------------------------------------------------------------------------
+
+📢 [**Register Now!**](https://your-registration-link.com)\
+📧 Questions? Contact us at [email\@example.com](mailto:email@example.com)

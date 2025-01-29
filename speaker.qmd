@@ -1,0 +1,16 @@
+
+---
+title: "Keynote Speaker"
+---
+
+# Meet Our Keynote Speaker: Dr. Jeff Leek
+
+![Dr. Jane Smith](Jeff.png){width=200px align=center}
+
+Dr. Jane Smith is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents' Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.
+
+**"The Future of [Your Topic]"**
+
+Don't miss this inspiring talk!
+
+[Back to Home](index.qmd){.btn .btn-secondary}

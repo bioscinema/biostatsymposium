@@ -1,0 +1,33 @@
+---
+title: "2025 Northeast Ohio Joint Biostatistics Symposium"
+author: "Case Western Reserve University"
+date: "April 25-26, 2025"
+location: "Case Western Reserve University, Cleveland, Ohio"
+output: html
+---
+
+<!-- Add the CWRU logo at the top -->
+
+::: {style="text-align: center;"}
+<img src="/som_cwru.png" width="250px"/>
+:::
+
+# Welcome to the Annual Symposium 2025
+
+We are thrilled to invite you to our annual **Symposium 2025**. Join us to explore exciting developments in \[your field/topic\], connect with leading researchers, and contribute to groundbreaking discussions.
+
+## Keynote Speaker
+
+Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned expert in \[field/topic\]. Dr. Jeff will present on **xxxx**.
+
+![Dr. Jane Smith](Jeff.png){.center width="300px"}
+
+------------------------------------------------------------------------
+
+## Registration
+
+[**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/1ffdseLSD7huGeLGM9XA5rOT_QWahWa48HFMJgIoB1sA/edit)
+
+------------------------------------------------------------------------
+
+We look forward to welcoming you!
