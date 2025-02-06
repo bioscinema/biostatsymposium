@@ -1,8 +1,6 @@
 ---
 title: "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM"
-author: "Cleveland Clinic ~ Case Western Reserve University ~ Ohio State University"
-date: "April 7, 2025"
-location: "Tinkham Veale University Center – Kelvin & Eleanor Smith Foundation Grand Ballroom, Case Western Reserve University, 11038 Bellflower Road, Cleveland, OH 44106"
+
 format: html
 ---
 

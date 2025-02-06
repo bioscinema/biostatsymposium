@@ -1,7 +1,5 @@
 ---
 title: "2025 Northeast Ohio Joint Biostatistics Symposium"
-author: "Case Western Reserve University"
-date: "April 25-26, 2025"
 location: "Case Western Reserve University, Cleveland, Ohio"
 output: html
 ---
