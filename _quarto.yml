@@ -15,6 +15,8 @@ website:
         text: Keynote Speaker
       - href: agenda/index.qmd
         text: Agenda
+      - href: Registration/index.qmd
+        text: Registration
       # - href: software/index.qmd
       #   text: Software
       # - href: talks/index.qmd

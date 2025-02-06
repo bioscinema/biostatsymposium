@@ -9,12 +9,17 @@ output: html
 <!-- Add the CWRU logo at the top -->
 
 ::: {style="text-align: center;"}
-<img src="/som_cwru.png" width="250px"/>
+<img src="/ccf.jpg" width="250px"/> <img src="/som_cwru.png" width="250px"/><img src="/osu.jpg" width="250px"/>
 :::
 
 # Welcome to the Annual Symposium 2025
 
-We are thrilled to invite you to our annual **Symposium 2025**. Join us to explore exciting developments in \[your field/topic\], connect with leading researchers, and contribute to groundbreaking discussions.
+We are thrilled to invite you to our annual **Symposium 2025**. The 2025 Joint Biostatistics Symposium offers an excellent opportunity for students in our department to explore emerging trends in AI-driven medical research, present their work, and network with other researchers.
+
+The symposium, held annually in mid-April, is a pivotal one-day event that serves as a\
+cornerstone for collaboration and knowledge dissemination among faculty and students from the Ohio State University Medical School, Case Western Reserve University Medical School, and the Cleveland Clinic. The close physical proximity of the three institutions enables attendees to conveniently commute to the venue within 2 hours, facilitating participation and fostering collaboration. Its primary objective is to facilitate communication and engagement surrounding the latest developments and innovations in the field of biostatistics. By providing a platform for researchers, educators, and students to convene, the symposium fosters an environment conducive to sharing cutting-edge research findings, exploring emerging methodologies, and discussing pertinent challenges and opportunities in the realm of biostatistics. Through collaborative discussions, presentations, and networking opportunities, attendees are empowered to stay abreast of the most recent advances in biostatistical research and to forge connections that drive interdisciplinary collaboration and innovation.\
+\
+On April 7, 2025, we will host the symposium in the Tinkham Veale Center at Case Western Reserve University, offering a valuable opportunity to uphold our commitments and maintain this vital platform in Northeast Ohio.**This year, we are introducing a student poster presentation award and warmly encourage students to participate. More details will be released, I will keep you updated.**
 
 ## Keynote Speaker
 
@@ -23,6 +28,16 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned expert in \
 ![Dr. Jane Smith](Jeff.png){.center width="300px"}
 
 ------------------------------------------------------------------------
+
+## Event Details
+
+**Date:** April 7th, 2025
+
+**Format:** In-person only
+
+**Venue:** Tinkham Veale University Center Ball Room A&B
+
+## [**Deatailed schedule**](agenda/index.html)
 
 ## Registration
 

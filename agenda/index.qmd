@@ -1,42 +1,48 @@
 ---
-title: "Symposium Agenda"
+title: "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM"
+author: "Cleveland Clinic ~ Case Western Reserve University ~ Ohio State University"
+date: "April 7, 2025"
+location: "Tinkham Veale University Center – Kelvin & Eleanor Smith Foundation Grand Ballroom, Case Western Reserve University, 11038 Bellflower Road, Cleveland, OH 44106"
 format: html
 ---
 
-# 📅 Symposium Agenda
+# **Agenda**
 
-📍 **Date:** \[Month Day, Year\]\
-📍 **Location:** \[Venue Name or Virtual Link\]
+## **Schedule**
+### **Morning Session**
+- **10:00 am** - Registration and Poster Set up  
+- **10:30 am** - Opening remarks and introduction  
+- **10:50 am – 11:20 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**  
+  _Planning_  
+- **11:20 am – 11:30 am** - Break  
+- **11:30 am – 1:00 pm** - **Lunch and Poster Session**  
 
-| Time     | Event                        | Speaker/Host        |
-|----------|------------------------------|---------------------|
-| 09:00 AM | Opening Remarks              | \[Host Name\]       |
-| 09:30 AM | Keynote Speech               | \[Keynote Speaker\] |
-| 10:30 AM | Coffee Break ☕              | ---                 |
-| 11:00 AM | Session 1: \[Session Title\] | \[Speaker Name\]    |
-| 12:30 PM | Lunch Break 🍽️               | ---                 |
-| 02:00 PM | Session 2: \[Session Title\] | \[Speaker Name\]    |
-| 03:30 PM | Panel Discussion             | \[Panelists\]       |
-| 05:00 PM | Closing Remarks & Networking | \[Host Name\]       |
+### **Afternoon Session**
+- **1:00 pm – 1:40 pm** - **Speaker from Ohio State University: Andy Ni**  
+  _Planning_  
+- **1:40 pm – 1:50 pm** - Break  
+- **1:50 pm – 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman**  
+  _Planning_  
+- **2:30 pm – 2:40 pm** - Break  
+- **2:40 pm – 3:00 pm** - **Poster Awards**  
 
-## 📝 Session Details
+### **Keynote Presentation**
+- **3:00 pm – 4:00 pm**  
+  **Jeff Leek**, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center  
+  **Presentation title:** *"AI in Translational Oncology"*
 
-### 🎤 Session 1: \[Session Title\]
+---
 
-📍 **Speaker:** \[Speaker Name\]\
-📍 **Topic:** \[Short Description\]\
-📍 **Time:** \[Time Slot\]
+### **Directions to the Venue**
+**Tinkham Veale University Center, Case Western Reserve University**  
+📍 **11038 Bellflower Road, Cleveland, OH 44106**  
 
-[Read More](session1.qmd)
+### **Directions to the Parking Lot S-29**
+📍 **[11172 East Boulevard, Cleveland, Ohio 44106](https://www.google.com/maps/place/11172+East+Blvd,+Cleveland,+OH+44106)**
 
-### 🗣️ Panel Discussion: \[Topic\]
+---
 
-📍 **Panelists:** \[Names\]\
-📍 **Time:** \[Time Slot\]
+## **Contact Information**
+For any questions, please contact **[Your Contact Email]**.
 
-[Read More](panel.qmd)
-
-------------------------------------------------------------------------
-
-📢 [**Register Now!**](https://your-registration-link.com)\
-📧 Questions? Contact us at [email\@example.com](mailto:email@example.com)
+---

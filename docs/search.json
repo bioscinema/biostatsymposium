@@ -16,9 +16,9 @@
   {
     "objectID": "agenda/index.html",
     "href": "agenda/index.html",
-    "title": "Symposium Agenda",
+    "title": "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM",
     "section": "",
-    "text": "📍 Date: [Month Day, Year]\n📍 Location: [Venue Name or Virtual Link]\n\n\n\nTime\nEvent\nSpeaker/Host\n\n\n\n\n09:00 AM\nOpening Remarks\n[Host Name]\n\n\n09:30 AM\nKeynote Speech\n[Keynote Speaker]\n\n\n10:30 AM\nCoffee Break ☕\n—\n\n\n11:00 AM\nSession 1: [Session Title]\n[Speaker Name]\n\n\n12:30 PM\nLunch Break 🍽️\n—\n\n\n02:00 PM\nSession 2: [Session Title]\n[Speaker Name]\n\n\n03:30 PM\nPanel Discussion\n[Panelists]\n\n\n05:00 PM\nClosing Remarks & Networking\n[Host Name]\n\n\n\n\n\n\n\n📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
+    "text": "10:00 am - Registration and Poster Set up\n\n10:30 am - Opening remarks and introduction\n\n10:50 am – 11:20 am - Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer\nPlanning\n\n11:20 am – 11:30 am - Break\n\n11:30 am – 1:00 pm - Lunch and Poster Session\n\n\n\n\n\n1:00 pm – 1:40 pm - Speaker from Ohio State University: Andy Ni\nPlanning\n\n1:40 pm – 1:50 pm - Break\n\n1:50 pm – 2:30 pm - Speaker from Case Western Reserve University: Holly Hartman\nPlanning\n\n2:30 pm – 2:40 pm - Break\n\n2:40 pm – 3:00 pm - Poster Awards\n\n\n\n\n\n3:00 pm – 4:00 pm\nJeff Leek, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\nPresentation title: “AI in Translational Oncology”\n\n\n\n\n\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\n\n\n\n📍 11172 East Boulevard, Cleveland, Ohio 44106\n\n\n\n\n\nFor any questions, please contact [Your Contact Email]."
   },
   {
     "objectID": "agenda/index.html#session-details",
@@ -54,5 +54,54 @@
     "title": "Keynote Speaker",
     "section": "",
     "text": "This keynote will cover: - ✅ [Key Topic 1] - ✅ [Key Topic 2] - ✅ [Key Topic 3]\n\n“A quote from the speaker or related to the topic.” – Dr. [Speaker Name]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "speaker.html",
+    "href": "speaker.html",
+    "title": "Keynote Speaker",
+    "section": "",
+    "text": "Meet Our Keynote Speaker: Dr. Jeff Leek\n\n\n\nDr. Jane Smith\n\n\nDr. Jane Smith is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.\n“The Future of [Your Topic]”\nDon’t miss this inspiring talk!\nBack to Home"
+  },
+  {
+    "objectID": "Registration/index.html",
+    "href": "Registration/index.html",
+    "title": "Registration Information",
+    "section": "",
+    "text": "The registration link is attached in the bottom of home page, you can also register here: Click here to register for Symposium 2025!\nIf you want to participate poster session, please click here\nPlease register the symposium before March 31st! If you are interested in poster session, please submit the poster session registration before March 31st!"
+  },
+  {
+    "objectID": "agenda/index.html#schedule",
+    "href": "agenda/index.html#schedule",
+    "title": "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM",
+    "section": "",
+    "text": "10:00 am - Registration and Poster Set up\n\n10:30 am - Opening remarks and introduction\n\n10:50 am – 11:20 am - Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer\nPlanning\n\n11:20 am – 11:30 am - Break\n\n11:30 am – 1:00 pm - Lunch and Poster Session\n\n\n\n\n\n1:00 pm – 1:40 pm - Speaker from Ohio State University: Andy Ni\nPlanning\n\n1:40 pm – 1:50 pm - Break\n\n1:50 pm – 2:30 pm - Speaker from Case Western Reserve University: Holly Hartman\nPlanning\n\n2:30 pm – 2:40 pm - Break\n\n2:40 pm – 3:00 pm - Poster Awards\n\n\n\n\n\n3:00 pm – 4:00 pm\nJeff Leek, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\nPresentation title: “AI in Translational Oncology”\n\n\n\n\n\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\n\n\n\n📍 11172 East Boulevard, Cleveland, Ohio 44106"
+  },
+  {
+    "objectID": "agenda/index.html#contact-information",
+    "href": "agenda/index.html#contact-information",
+    "title": "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM",
+    "section": "",
+    "text": "For any questions, please contact [Your Contact Email]."
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
+    "section": "Event Details",
+    "text": "Event Details\nDate: April 7th, 2025\nFormat: In-person only\nVenue: Tinkham Veale University Center Ball Room A&B"
+  },
+  {
+    "objectID": "index.html#deatailed-schedule",
+    "href": "index.html#deatailed-schedule",
+    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
+    "section": "Deatailed schedule",
+    "text": "Deatailed schedule"
   }
 ]
