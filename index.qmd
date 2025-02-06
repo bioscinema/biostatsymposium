@@ -44,3 +44,17 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned expert in \
 ------------------------------------------------------------------------
 
 We look forward to welcoming you!
+
+::: {#sponsorship .callout-note}
+## **Sponsorship & Acknowledgments**
+
+The named lecture is the **Jack H. Berman, MD Lecture Fund**. As stated earlier, the purpose of the fund is:
+
+> *"To support a program of guest lecturers who will discuss the basic science behind disease and its application to patient care."*
+
+### **Funding Acknowledgments**
+- **Jack H. Berman, MD Lecture Fund** 
+- **Case Comprehensive Cancer Center** 
+
+:::
+
