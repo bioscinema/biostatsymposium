@@ -9,17 +9,13 @@ format: html
 ### **Morning Session**
 - **10:00 am** - Registration and Poster Set up  
 - **10:30 am** - Opening remarks and introduction  
-- **10:50 am – 11:20 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**  
-  _Planning_  
-- **11:20 am – 11:30 am** - Break  
+- **10:50 am – 11:30 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**  
 - **11:30 am – 1:00 pm** - **Lunch and Poster Session**  
 
 ### **Afternoon Session**
 - **1:00 pm – 1:40 pm** - **Speaker from Ohio State University: Andy Ni**  
-  _Planning_  
 - **1:40 pm – 1:50 pm** - Break  
 - **1:50 pm – 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman**  
-  _Planning_  
 - **2:30 pm – 2:40 pm** - Break  
 - **2:40 pm – 3:00 pm** - **Poster Awards**  
 
