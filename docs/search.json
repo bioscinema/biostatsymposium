@@ -110,5 +110,12 @@
     "title": "Keynote Speaker",
     "section": "",
     "text": "Artificial intelligence (AI) is reshaping the field of translational oncology by enhancing the ability to translate laboratory research into clinical practice with unprecedented precision and efficiency. In this presentation, Dr. Jeff Leek from Fred Hutch Cancer Center will delve into how AI and machine learning are driving innovations in cancer diagnosis, treatment planning, and patient outcome predictions. The talk will focus on AI-driven approaches to biomarker discovery, where complex multi-omics data, including genomics, proteomics, and radiomics, are integrated to identify actionable insights for personalized cancer therapy. Dr. Leek will also highlight the application of AI in real-time analysis of patient data, enabling the development of adaptive treatment strategies based on evolving tumor characteristics. Additionally, Dr. Leek will discuss the challenges and opportunities associated with implementing AI in oncology, such as managing data heterogeneity, ensuring model interpretability, and addressing ethical considerations in clinical decision-making. Real-world case studies and the latest research will be presented to illustrate how AI tools are being used to improve the accuracy of cancer prognosis and treatment response predictions. By demonstrating the practical impact of AI on accelerating cancer research and enhancing personalized medicine, this presentation aims to underscore the transformative potential of AI in advancing translational oncology"
+  },
+  {
+    "objectID": "index.html#symposium-managing-committee",
+    "href": "index.html#symposium-managing-committee",
+    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
+    "section": "Symposium managing committee:",
+    "text": "Symposium managing committee:\n\nLiangliang Zhang (Co-chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nXiaofeng Zhu (Co-Chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nMichael Pennell (Department of Biostatistics, The Ohio State University)\nShili Lin (Department of Statistics, The Ohio State University)\nQing Wu (Department of Biomedical Informatics, The Ohio State University)"
   }
 ]

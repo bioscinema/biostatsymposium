@@ -7,7 +7,7 @@ output: html
 <!-- Add the CWRU logo at the top -->
 
 ::: {style="text-align: center;"}
-<img src="/ccf.jpg" width="250px"/> <img src="/som_cwru.png" width="250px"/><img src="/osu.jpg" width="250px"/>
+<img src="/ccf.jpg" width="250px"/> <img src="/cwru.jpg" width="250px"/><img src="/osu.jpg" width="250px"/>
 :::
 
 # Welcome to the Annual Symposium 2025
@@ -27,6 +27,21 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ------------------------------------------------------------------------
 
+## Symposium managing committee:
+
+- Liangliang Zhang (Co-chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)
+
+- Xiaofeng Zhu (Co-Chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)
+
+- Michael Pennell (Department of Biostatistics, The Ohio State University)
+
+- Shili Lin (Department of Statistics, The Ohio State University)
+
+- Qing Wu (Department of Biomedical Informatics, The Ohio State University)
+
+
+------------------------------------------------------------------------
+
 ## Event Details
 
 **Date:** April 7th, 2025
@@ -37,11 +52,15 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ## [**Deatailed schedule**](agenda/index.html)
 
+------------------------------------------------------------------------
+
 ## Registration
 
 [**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/1ffdseLSD7huGeLGM9XA5rOT_QWahWa48HFMJgIoB1sA/edit)
 
 ------------------------------------------------------------------------
+
+
 
 We look forward to welcoming you!
 
