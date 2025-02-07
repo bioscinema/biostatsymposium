@@ -41,7 +41,9 @@ Register by March 9th to secure your free lunch!
 
 ## Theme: Data Science, AI and Biomedical Research
 
-We are thrilled to invite you to our annual **Symposium 2025**. The 2025 BioStatSymposium, themed 'Integrating Data Science with Biomedical Innovations,' is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year’s focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.
+We are thrilled to invite you to our annual **BiostatSymposium 2025**. The 2025 BioStatSymposium, themed 'Integrating Data Science with Biomedical Innovations,' is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year’s focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.
+
+We look forward to welcoming you!
 
 ## Keynote Speaker
 
@@ -53,7 +55,7 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ## Local Organizing Committee:
 
-- Liangliang Zhang, Xiaofeng Zhu,Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song from Department of Population & Quantitative Health Sciences, Case Western Reserve University.
+- Liangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song from Department of Population & Quantitative Health Sciences, Case Western Reserve University.
 
 ------------------------------------------------------------------------
 
@@ -71,7 +73,6 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ------------------------------------------------------------------------
 
-We look forward to welcoming you!
 
 ::: {#sponsorship .callout-note}
 ## **Sponsorship & Acknowledgments**
