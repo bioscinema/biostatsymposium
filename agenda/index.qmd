@@ -40,7 +40,3 @@ format: html
 
 ---
 
-## **Contact Information**
-For any questions, please contact **[Your Contact Email]**.
-
----
