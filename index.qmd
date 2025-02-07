@@ -21,9 +21,9 @@ On April 7, 2025, we will host the symposium in the Tinkham Veale Center at Case
 
 ## Keynote Speaker
 
-Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned expert in \[field/topic\]. Dr. Jeff will present on **xxxx**.
+Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatistician in  human gene expression using machine learning and data science. 
 
-![Dr. Jane Smith](Jeff.png){.center width="300px"}
+![Dr. Jeff Leek](Jeff.png){.center width="300px"}
 
 ------------------------------------------------------------------------
 

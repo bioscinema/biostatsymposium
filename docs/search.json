@@ -32,21 +32,21 @@
     "href": "keynote/index.html",
     "title": "Keynote Speaker",
     "section": "",
-    "text": "Keynote Speaker\n\n\n\n\nTitle & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]\n\n\n\nDr. [Speaker Name] is a renowned expert in [field of research]. With over X years of experience, Dr. [Speaker] has made groundbreaking contributions to [topic], including [notable achievements].\nHis/her/their work has been recognized with awards such as [Awards, Fellowships], and they have published extensively in leading journals like [Journal Names].\n\n\n\nThis keynote will cover: - ✅ [Key Topic 1] - ✅ [Key Topic 2] - ✅ [Key Topic 3]\n\n“A quote from the speaker or related to the topic.” – Dr. [Speaker Name]"
+    "text": "Keynote Speaker\n\n\n\n\nTitle & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “AI in Translation Oncology”\n\n\n\n\nDr. Jeff is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.\n\n\n\nArtificial intelligence (AI) is reshaping the field of translational oncology by enhancing the ability to translate laboratory research into clinical practice with unprecedented precision and efficiency. In this presentation, Dr. Jeff Leek from Fred Hutch Cancer Center will delve into how AI and machine learning are driving innovations in cancer diagnosis, treatment planning, and patient outcome predictions. The talk will focus on AI-driven approaches to biomarker discovery, where complex multi-omics data, including genomics, proteomics, and radiomics, are integrated to identify actionable insights for personalized cancer therapy. Dr. Leek will also highlight the application of AI in real-time analysis of patient data, enabling the development of adaptive treatment strategies based on evolving tumor characteristics. Additionally, Dr. Leek will discuss the challenges and opportunities associated with implementing AI in oncology, such as managing data heterogeneity, ensuring model interpretability, and addressing ethical considerations in clinical decision-making. Real-world case studies and the latest research will be presented to illustrate how AI tools are being used to improve the accuracy of cancer prognosis and treatment response predictions. By demonstrating the practical impact of AI on accelerating cancer research and enhancing personalized medicine, this presentation aims to underscore the transformative potential of AI in advancing translational oncology"
   },
   {
     "objectID": "keynote/index.html#dr.-jeff-leek",
     "href": "keynote/index.html#dr.-jeff-leek",
     "title": "Keynote Speaker",
     "section": "",
-    "text": "Title & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “Revolutionizing Science: The Future of Microbiome Research”\n🕘 Date & Time: [Day, Month Date, Year, Time]\n📍 Location: [Venue Name or Virtual Link]"
+    "text": "Title & Affiliation\nFred Hutchinson Cancer Center\n📍 Talk Title: “AI in Translation Oncology”"
   },
   {
     "objectID": "keynote/index.html#about-the-speaker",
     "href": "keynote/index.html#about-the-speaker",
     "title": "Keynote Speaker",
     "section": "",
-    "text": "Dr. [Speaker Name] is a renowned expert in [field of research]. With over X years of experience, Dr. [Speaker] has made groundbreaking contributions to [topic], including [notable achievements].\nHis/her/their work has been recognized with awards such as [Awards, Fellowships], and they have published extensively in leading journals like [Journal Names]."
+    "text": "Dr. Jeff is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science."
   },
   {
     "objectID": "keynote/index.html#talk-overview",
@@ -103,5 +103,12 @@
     "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
     "section": "Deatailed schedule",
     "text": "Deatailed schedule"
+  },
+  {
+    "objectID": "keynote/index.html#abstract",
+    "href": "keynote/index.html#abstract",
+    "title": "Keynote Speaker",
+    "section": "",
+    "text": "Artificial intelligence (AI) is reshaping the field of translational oncology by enhancing the ability to translate laboratory research into clinical practice with unprecedented precision and efficiency. In this presentation, Dr. Jeff Leek from Fred Hutch Cancer Center will delve into how AI and machine learning are driving innovations in cancer diagnosis, treatment planning, and patient outcome predictions. The talk will focus on AI-driven approaches to biomarker discovery, where complex multi-omics data, including genomics, proteomics, and radiomics, are integrated to identify actionable insights for personalized cancer therapy. Dr. Leek will also highlight the application of AI in real-time analysis of patient data, enabling the development of adaptive treatment strategies based on evolving tumor characteristics. Additionally, Dr. Leek will discuss the challenges and opportunities associated with implementing AI in oncology, such as managing data heterogeneity, ensuring model interpretability, and addressing ethical considerations in clinical decision-making. Real-world case studies and the latest research will be presented to illustrate how AI tools are being used to improve the accuracy of cancer prognosis and treatment response predictions. By demonstrating the practical impact of AI on accelerating cancer research and enhancing personalized medicine, this presentation aims to underscore the transformative potential of AI in advancing translational oncology"
   }
 ]
