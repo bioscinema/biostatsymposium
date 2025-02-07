@@ -1,6 +1,5 @@
 ---
 title: "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM"
-
 format: html
 ---
 
