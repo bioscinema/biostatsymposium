@@ -58,10 +58,10 @@ format: html
 ### **Directions to the Venue**
 
 **Tinkham Veale University Center, Case Western Reserve University**\
-📍 **11038 Bellflower Road, Cleveland, OH 44106**
+📍 **[11038 Bellflower Road, Cleveland, OH 44106](https://www.google.com/maps/place/11038+Bellflower+Rd,+Cleveland,+OH+44106/@41.5087073,-81.6085641,17z/data=!3m1!4b1!4m6!3m5!1s0x8830fb894d9d3bfb:0xa4fcaa37117d4243!8m2!3d41.5087073!4d-81.6085641!16s%2Fg%2F11c2h86rtz?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)**
 
 ### **Directions to the Parking Lot S-29**
 
-📍 [**11172 East Boulevard, Cleveland, Ohio 44106**](https://www.google.com/maps/place/11172+East+Blvd,+Cleveland,+OH+44106)
+📍 [**11173 East Boulevard, Cleveland, Ohio 44106**](https://www.google.com/maps/place/11173+East+Blvd,+Cleveland,+OH+44106/@41.5068839,-81.6098443,16z/data=!3m1!4b1!4m6!3m5!1s0x8830fb8ed9b1d3ed:0x3b8cad957c0dc5bc!8m2!3d41.5068839!4d-81.6098443!16s%2Fg%2F11f79k8kw_?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)
 
 ## You can also look through directions and parking information from [this website](https://case.edu/universitycenter/about/directions).
