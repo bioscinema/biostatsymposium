@@ -6,41 +6,62 @@ format: html
 # **Agenda**
 
 ## **Schedule**
+
 ### **Morning Session**
-- **10:00 am** - Registration and Poster Set up
 
-- **10:30 am** - Opening remarks and introduction
+-   **10:00 am** - Registration and Poster Set up
 
-- **10:50 am – 11:30 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**  
+---
 
-- **11:30 am – 1:00 pm** - **Lunch and Poster Session**
+-   **10:30 am** - Opening remarks and introduction
 
+---
+
+-   **10:50 am -- 11:30 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**
+
+---
+
+-   **11:30 am -- 1:00 pm** - **Lunch and Poster Session**
+
+---
 
 ### **Afternoon Session**
-- **1:00 pm – 1:40 pm** - **Speaker from The Ohio State University: Andy Ni**
 
-- **1:40 pm – 1:50 pm** - Break  
+-   **1:00 pm -- 1:40 pm** - **Speaker from The Ohio State University: Andy Ni**
 
-- **1:50 pm – 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman** 
+---
 
-- **2:30 pm – 2:40 pm** - Break
+-   **1:40 pm -- 1:50 pm** - Break
 
-- **2:40 pm – 3:00 pm** - **Poster Awards** 
+---
+
+-   **1:50 pm -- 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman**
+
+---
+
+-   **2:30 pm -- 2:40 pm** - Break
+
+---
+
+-   **2:40 pm -- 3:00 pm** - **Poster Awards**
+
+---
 
 ### **Keynote Presentation**
-- **3:00 pm – 4:00 pm**  
-  **Jeff Leek**, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center  
-  **Presentation title:** *"AI in Translational Oncology"*
 
----
+-   **3:00 pm -- 4:00 pm**\
+    **Jeff Leek**, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\
+    **Presentation title:** *"AI in Translational Oncology"*
+
+------------------------------------------------------------------------
 
 ### **Directions to the Venue**
-**Tinkham Veale University Center, Case Western Reserve University**  
-📍 **11038 Bellflower Road, Cleveland, OH 44106**  
+
+**Tinkham Veale University Center, Case Western Reserve University**\
+📍 **11038 Bellflower Road, Cleveland, OH 44106**
 
 ### **Directions to the Parking Lot S-29**
-📍 **[11172 East Boulevard, Cleveland, Ohio 44106](https://www.google.com/maps/place/11172+East+Blvd,+Cleveland,+OH+44106)**
 
-You can also look through directions and parking information from [this website](https://case.edu/universitycenter/about/directions).
----
+📍 [**11172 East Boulevard, Cleveland, Ohio 44106**](https://www.google.com/maps/place/11172+East+Blvd,+Cleveland,+OH+44106)
 
+## You can also look through directions and parking information from [this website](https://case.edu/universitycenter/about/directions).
