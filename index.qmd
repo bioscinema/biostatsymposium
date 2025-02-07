@@ -19,6 +19,14 @@ The Northeast Ohio Joint Biostatistics Symposium is traditionally hosted on a ro
 
 ----------------------------------------------------------------------------------
 
+## Registration
+
+[**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/1ffdseLSD7huGeLGM9XA5rOT_QWahWa48HFMJgIoB1sA/edit)
+
+Register by March 9th to secure your free lunch!
+
+----------------------------------------------------------------------------------
+
 ## Event Details
 
 **Date:** April 7th, 2025
@@ -89,15 +97,6 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 ------------------------------------------------------------------------
 
 
-
-------------------------------------------------------------------------
-
-## Registration
-
-[**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/1ffdseLSD7huGeLGM9XA5rOT_QWahWa48HFMJgIoB1sA/edit)
-
-Register by March 9th to secure your free lunch!
-
 ------------------------------------------------------------------------
 
 
@@ -113,7 +112,11 @@ The named lecture is the **Jack H. Berman, MD Lecture Fund**. As stated earlier,
 
 ### **Funding Acknowledgments**
 - **Jack H. Berman, MD Lecture Fund** 
-- **Case Comprehensive Cancer Center** 
+- **Case Comprehensive Cancer Center**
+
+::: {style="text-align: center;"}
+<img src="/som_cwru.png" width="250px"/>
+:::
 
 :::
 
