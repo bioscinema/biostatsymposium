@@ -17,6 +17,20 @@ cornerstone for collaboration and knowledge dissemination among faculty and stud
 \
 The Northeast Ohio Joint Biostatistics Symposium is traditionally hosted on a rotating basis by Ohio State University (Statistics, Biostatistics, and Biomedical Informatics), the Cleveland Clinic Foundation (Quantitative Health Sciences), and Case Western Reserve University (Population and Quantitative Health Sciences). On April 7, 2025, Case Western Reserve University will have the honor of hosting the symposium in the Tinkham Veale Center at Case Western Reserve University, offering a valuable opportunity to uphold our commitments and maintain this vital platform in Northeast Ohio.**This year, we are introducing a student poster presentation award and warmly encourage students to participate. More details will be released, I will keep you updated.**
 
+----------------------------------------------------------------------------------
+
+## Event Details
+
+**Date:** April 7th, 2025
+
+**Format:** In-person only
+
+**Venue:** Tinkham Veale University Center Ball Room A&B
+
+## [**Detailed schedule**](agenda/index.html)
+
+-----------------------------------------------------------------------------------
+
 ## Theme: Data Science, AI and Biomedical Research
 
 We are thrilled to invite you to our annual **Symposium 2025**. The 2025 Joint Biostatistics Symposium offers an excellent opportunity for students in our department to explore emerging trends in AI-driven medical research, present their work, and network with other researchers.
@@ -26,6 +40,37 @@ We are thrilled to invite you to our annual **Symposium 2025**. The 2025 Joint B
 Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatistician in  human gene expression using machine learning and data science. 
 
 ![Dr. Jeff Leek](Jeff.png){.center width="300px"}
+
+------------------------------------------------------------------------
+## Local Organizing Committee:
+
+**Department of Population & Quantitative Health Sciences, Case Western Reserve University**
+
+- Liangliang Zhang 
+
+- Xiaofeng Zhu 
+
+- Ming Wang 
+
+- Lijun Zhang 
+
+- Holly Hartman 
+
+- Jeffery M. Albert 
+
+- Abdus Sattar 
+
+- Hao Feng 
+
+- Pingfu Fu 
+
+- Yilun Sun 
+
+- Mireya Diaz-Insua 
+
+- Thomas E. Love 
+
+- Yeunjoo E. Song 
 
 ------------------------------------------------------------------------
 
@@ -41,53 +86,17 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 - Qing Wu (Department of Biomedical Informatics, The Ohio State University)
 
-
 ------------------------------------------------------------------------
 
-## Local Committee:
 
-- Liangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Xiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Ming Wang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Lijun Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Holly Hartman (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Jeffery M. Albert (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Abdus Sattar (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Hao Feng (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Pingfu Fu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Yilun Sun (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Mireya Diaz-Insua (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Thomas E. Love (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-
-- Yeunjoo E. Song (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
-------------------------------------------------------------------------
-
-## Event Details
-
-**Date:** April 7th, 2025
-
-**Format:** In-person only
-
-**Venue:** Tinkham Veale University Center Ball Room A&B
-
-## [**Deatailed schedule**](agenda/index.html)
 
 ------------------------------------------------------------------------
 
 ## Registration
 
 [**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/1ffdseLSD7huGeLGM9XA5rOT_QWahWa48HFMJgIoB1sA/edit)
+
+Register by March 9th to secure your free lunch!
 
 ------------------------------------------------------------------------
 
