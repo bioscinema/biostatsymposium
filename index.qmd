@@ -7,7 +7,7 @@ output: html
 <!-- Add the CWRU logo at the top -->
 
 ::: {style="text-align: center;"}
-<img src="/ccf.jpg" width="250px"/> <img src="/cwru.jpeg" width="250px"/><img src="/osu.jpg" width="250px"/>
+<img src="/ccf.jpg" width="200px"/> <img src="/cwru.jpeg" width="250px"/><img src="/osu.jpg" width="250px"/>
 :::
 
 # Welcome to the Annual Symposium 2025
@@ -45,6 +45,10 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 ------------------------------------------------------------------------
 
 ## Local Committee:
+
+- Liangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
+
+- Xiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
 - Ming Wang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
