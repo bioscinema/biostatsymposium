@@ -7,7 +7,7 @@ output: html
 <!-- Add the CWRU logo at the top -->
 
 ::: {style="text-align: center;"}
-<img src="/ccf.jpg" width="250px"/> <img src="/cwru.jpg" width="250px"/><img src="/osu.jpg" width="250px"/>
+<img src="/ccf.jpg" width="250px"/> <img src="/cwru.jpeg" width="250px"/><img src="/osu.jpg" width="250px"/>
 :::
 
 # Welcome to the Annual Symposium 2025
