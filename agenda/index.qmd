@@ -13,7 +13,7 @@ format: html
 
 ---
 
--   **10:30 am** - Opening remarks and introduction
+-   **10:30 am** - Opening remarks and introduction: **Gary Schwartz, Director of Case Comprehensive Cancer Center**
 
 ---
 
@@ -43,9 +43,11 @@ format: html
 
 ---
 
--   **2:40 pm -- 3:00 pm** - **Poster Awards**
+-   **2:40 pm -- 2:50 pm** - **Poster Awards**
 
 ---
+
+-   **2:50 pm -- 3:00 pm** - Closing Remarks: **Stan Gerson, Dean of School of Medicine**
 
 ### **Keynote Presentation**
 
