@@ -73,7 +73,9 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 -   Gerald Beck (Department of Quantitative Health Sciences, The Cleveland Clinic)
 
--   Michael Pennell (Department of Biostatistics, The Ohio State University)
+-   Michael Pennell (Division of Biostatistics, College of Public Health, The Ohio State University)
+
+-   Andy Ni (Division of Biostatistics, College of Public Health, The Ohio State University)
 
 -   Shili Lin (Department of Statistics, The Ohio State University)
 
