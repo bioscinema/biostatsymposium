@@ -1,5 +1,5 @@
 ---
-title: "2025 Northeast Ohio Joint Biostatistics Symposium"
+title: "2025 Joint Biostatistics Symposium"
 location: "Case Western Reserve University, Cleveland, Ohio"
 output: html
 ---
@@ -10,14 +10,14 @@ output: html
 <img src="/ccf.jpg" width="200px"/> <img src="/cwru.jpeg" width="250px"/><img src="/osu.jpg" width="250px"/>
 :::
 
-# Welcome to the Annual Symposium 2025
+# Welcome to the Annual Joint Biostatistics Symposium 2025
 
-The symposium, held annually in mid-April, is a pivotal one-day event that serves as a\
-cornerstone for collaboration and knowledge dissemination among faculty and students from the Ohio State University, Case Western Reserve University, and the Cleveland Clinic Foundation. The close physical proximity of the three institutions enables attendees to conveniently commute to the venue within 2 hours, facilitating participation and fostering collaboration. Its primary objective is to facilitate communication and engagement surrounding the latest developments and innovations in the field of biostatistics. By providing a platform for researchers, educators, and students to convene, the symposium fosters an environment conducive to sharing cutting-edge research findings, exploring emerging methodologies, and discussing pertinent challenges and opportunities in the realm of biostatistics. Through collaborative discussions, presentations, and networking opportunities, attendees are empowered to stay abreast of the most recent advances in biostatistical research and to forge connections that drive interdisciplinary collaboration and innovation.\
+The Joint Biostatistics Symposium, holds annually in mid-April, is a pivotal one-day event that serves as a\
+cornerstone for collaboration and knowledge dissemination among faculty and students from the Ohio State University, Case Western Reserve University, and the Cleveland Clinic. The close physical proximity of the three institutions enables attendees to conveniently commute to the venue within 2 hours, facilitating participation and fostering collaboration. Its primary objective is to facilitate communication and engagement surrounding the latest developments and innovations in the field of biostatistics. By providing a platform for researchers, educators, and students to convene, the symposium fosters an environment conducive to sharing cutting-edge research findings, exploring emerging methodologies, and discussing pertinent challenges and opportunities in the realm of biostatistics. Through collaborative discussions, presentations, and networking opportunities, attendees are empowered to stay abreast of the most recent advances in biostatistical research and to forge connections that drive interdisciplinary collaboration and innovation.\
 \
-The Northeast Ohio Joint Biostatistics Symposium is traditionally hosted on a rotating basis by Ohio State University (Statistics, Biostatistics, and Biomedical Informatics), the Cleveland Clinic (Quantitative Health Sciences), and Case Western Reserve University (Population and Quantitative Health Sciences). On April 7, 2025, Case Western Reserve University will have the honor of hosting the symposium in the Tinkham Veale Center at Case Western Reserve University, offering a valuable opportunity to uphold our commitments and maintain this vital platform in Northeast Ohio. **We warmly invite researchers from all institutions—especially those specializing in statistics, biostatistics, epidemiology, bioinformatics, public health, and related fields—to join us for this exciting meeting. We look forward to your valuable contributions!**
+The Joint Biostatistics Symposium is traditionally hosted on a rotating basis by the Ohio State University (Statistics, Biostatistics, and Biomedical Informatics), the Cleveland Clinic (Quantitative Health Sciences), and Case Western Reserve University (Population and Quantitative Health Sciences). On April 7, 2025, Case Western Reserve University will have the honor of hosting the symposium in the Tinkham Veale Center at Case Western Reserve University, offering a valuable opportunity to uphold our commitments and maintain this vital platform. **We warmly invite researchers from all institutions---especially those specializing in statistics, biostatistics, epidemiology, bioinformatics, public health, and related fields---to join us for this exciting meeting. We look forward to your valuable contributions!**
 
-----------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Registration
 
@@ -25,33 +25,35 @@ The Northeast Ohio Joint Biostatistics Symposium is traditionally hosted on a ro
 
 Registration is free! To help us plan accurately for lunch, please register by March 9th to secure your free meal.
 
-----------------------------------------------------------------------------------
+If you have any questions, please conatct us (cinema\@case.edu)!
+
+------------------------------------------------------------------------
 
 ## Event Details
 
 **Date:** April 7th, 2025
 
-**Time:** 10:30 am ~ 04:00 pm
+**Time:** 10:30 am \~ 04:00 pm
 
 **Format:** In-person only
 
 **Address:** [Tinkham Veale University Center Ball Room A&B](https://www.google.com/maps/place/11038+Bellflower+Rd,+Cleveland,+OH+44106/@41.5087073,-81.6085641,17z/data=!3m1!4b1!4m6!3m5!1s0x8830fb894d9d3bfb:0xa4fcaa37117d4243!8m2!3d41.5087073!4d-81.6085641!16s%2Fg%2F11c2h86rtz?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)
 
-**Parking:** [11173 East Boulevard, Cleveland, Ohio 44106](https://www.google.com/maps/place/11173+East+Blvd,+Cleveland,+OH+44106/@41.5068839,-81.6098443,16z/data=!3m1!4b1!4m6!3m5!1s0x8830fb8ed9b1d3ed:0x3b8cad957c0dc5bc!8m2!3d41.5068839!4d-81.6098443!16s%2Fg%2F11f79k8kw_?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D) 
+**Parking:** [11173 East Boulevard, Cleveland, Ohio 44106](https://www.google.com/maps/place/11173+East+Blvd,+Cleveland,+OH+44106/@41.5068839,-81.6098443,16z/data=!3m1!4b1!4m6!3m5!1s0x8830fb8ed9b1d3ed:0x3b8cad957c0dc5bc!8m2!3d41.5068839!4d-81.6098443!16s%2Fg%2F11f79k8kw_?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)
 
 ## [**Detailed agenda**](agenda/index.html)
 
------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Theme: Data Science, AI and Biomedical Research
 
-We are thrilled to invite you to our annual **Northeast Ohio Joint Biostatistics Symposium**. The 2025 Northeast Ohio Joint Biostatistics Symposium, themed 'Integrating Data Science with Biomedical Innovations,' is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year’s focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.
+We are thrilled to invite you to our annual **Joint Biostatistics Symposium**. The 2025 Joint Biostatistics Symposium, themed 'Integrating Data Science with Biomedical Innovations,' is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year's focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.
 
 We look forward to welcoming you!
 
 ## Keynote Speaker
 
-Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatistician in  human gene expression using machine learning and data science. 
+Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatistician in human gene expression using machine learning and data science.
 
 ![Dr. Jeff Leek](Jeff.png){.center width="300px"}
 
@@ -59,26 +61,25 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ## Local Organizing Committee:
 
-- Liangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Case Western Reserve University.
+-   Liangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Case Western Reserve University.
 
 ------------------------------------------------------------------------
 
 ## Symposium Steering Committee:
 
-- Liangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
+-   Liangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
-- Xiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
+-   Xiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
-- Gerald Beck (Department of Quantitative Health Sciences, The Cleveland Clinic)
+-   Gerald Beck (Department of Quantitative Health Sciences, The Cleveland Clinic)
 
-- Michael Pennell (Department of Biostatistics, The Ohio State University)
+-   Michael Pennell (Department of Biostatistics, The Ohio State University)
 
-- Shili Lin (Department of Statistics, The Ohio State University)
+-   Shili Lin (Department of Statistics, The Ohio State University)
 
-- Qing Wu (Department of Biomedical Informatics, The Ohio State University)
+-   Qing Wu (Department of Biomedical Informatics, The Ohio State University)
 
 ------------------------------------------------------------------------
-
 
 ::: {#sponsorship .callout-note}
 ## **Sponsorship & Acknowledgments**
@@ -88,12 +89,11 @@ The named lecture is the **Jack H. Berman, MD Lecture Fund**. As stated earlier,
 > *"To support a program of guest lecturers who will discuss the basic science behind disease and its application to patient care."*
 
 ### **Funding Acknowledgments**
-- **Jack H. Berman, MD Lecture Fund** 
-- **Case Comprehensive Cancer Center**
+
+-   **Jack H. Berman, MD Lecture Fund**
+-   **Case Comprehensive Cancer Center**
 
 ::: {style="text-align: center;"}
 <img src="/som_cwru.png" width="250px"/>
 :::
-
 :::
-
