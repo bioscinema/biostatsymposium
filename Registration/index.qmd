@@ -7,7 +7,7 @@ format: html
 
 ## Symposium Registration
 
-Researchers from all institutions are welcome to register; however, please note that in-person attendance is required. Complimentary lunch will be provided for reservations made by March 9. The registration link is attached in the bottom of home page, you can also register here: [**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/e/1FAIpQLSeFLIrPz0kwp0TFKJLpNdbs3dYRzF0t8hcry2C_JRePVRLMSw/viewform?usp=header).
+Researchers from all institutions are welcome to register; however, please note that in-person attendance is required. Complimentary lunch will be provided for reservations made by March 12. The registration link is attached in the bottom of home page, you can also register here: [**Click here to register for Symposium 2025!**](https://docs.google.com/forms/d/e/1FAIpQLSeFLIrPz0kwp0TFKJLpNdbs3dYRzF0t8hcry2C_JRePVRLMSw/viewform?usp=header).
 
 ---------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ In addition to the oral presentations, we're thrilled to introduce a brand-new S
 ------------------------------------------------------------------------
 
 
-Please register the symposium before [**March 9th**]{style="color:blue;"}! If you are interested in poster session, please submit the poster session registration before [**March 9th**]{style="color:blue;"}!
+Please register the symposium before [**March 12th**]{style="color:blue;"}! If you are interested in poster session, please submit the poster session registration before [**March 12th**]{style="color:blue;"}!
