@@ -61,25 +61,19 @@ Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatisti
 
 ## Invited Speaker:
 
--   Holly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University.
+-   Holly Hartman from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Case Western Reserve University.
 
--   Christopher Boyer from Department of Quantitative Health Sciences, Cleveland Clinic.
-
-## Symposium Organizing Committee:
-
--   Liangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song, Jonathan Haines, Sudha K. Iyengar from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Case Western Reserve University.
-
--   Weihong Guo from [Department of Mathematics, Applied Mathematics, and Statistics](https://mathstats.case.edu/), Case Western Reserve University.
+-   Christopher Boyer from [Department of Quantitative Health Sciences, Cleveland Clinic](https://www.lerner.ccf.org/quantitative-health/).
 
 -   Andy Ni from [Division of Biostatistics, College of Public Health](https://cph.osu.edu/), The Ohio State University.
 
--   Christopher Boyer from [Department of Quantitative Health Sciences, Cleveland Clinic](https://www.lerner.ccf.org/quantitative-health/).
+## Symposium Organizing Committee:
+
+-   Liangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song, Jonathan Haines, Sudha K. Iyengar from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Weihong Guo from [Department of Mathematics, Applied Mathematics, and Statistics](https://mathstats.case.edu/), Case Western Reserve University.
 
 ------------------------------------------------------------------------
 
 ## Symposium Steering Committee:
-
--   Liangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
 -   Xiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)
 
