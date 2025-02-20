@@ -13,6 +13,8 @@ website:
     left:
       - href: keynote/index.qmd
         text: Keynote Speaker
+      - href: institution/index.qmd
+        text: Institution Speaker
       - href: agenda/index.qmd
         text: Agenda
       - href: Registration/index.qmd

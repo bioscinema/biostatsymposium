@@ -53,19 +53,21 @@ We look forward to welcoming you!
 
 ## Keynote Speaker
 
-Our keynote speaker this year is **Dr. Jeff Leek**, a world-renowned biostatistician in human gene expression using machine learning and data science.
+Our keynote speaker this year is **[Dr. Jeff Leek](https://jtleek.com/)**, a world-renowned biostatistician in human gene expression using machine learning and data science.
 
 ![Dr. Jeff Leek](Jeff.png){.center width="300px"}
 
 ------------------------------------------------------------------------
 
-## Invited Speaker:
+## Institution Speaker:
 
--   Holly Hartman from [Department of Population & Quantitative Health Sciences](https://case.edu/medicine/pqhs/), Case Western Reserve University.
+-   Christopher Boyer from Department of Quantitative Health Sciences, Cleveland
+Clinic.
 
--   Christopher Boyer from [Department of Quantitative Health Sciences, Cleveland Clinic](https://www.lerner.ccf.org/quantitative-health/).
+-   Andy Ni from Division of Biostatistics, College of Public Health, The Ohio State University.
 
--   Andy Ni from [Division of Biostatistics, College of Public Health](https://cph.osu.edu/), The Ohio State University.
+-   Holly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University.
+
 
 ## Symposium Organizing Committee:
 

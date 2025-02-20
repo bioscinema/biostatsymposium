@@ -1,0 +1,47 @@
+---
+title: "Institution Speaker"
+format: html
+---
+
+## Christoph Boyer
+
+![Christoph Boyer](images/christoph.jpg){.center width="300px"}
+
+Dr. Christoph Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.
+
+## Andy Ni
+
+![Andi Ni](images/AndyNi-01.jpg){.center width="300px"}
+
+Dr. Andy Ni is an assistant professor from Division of Biostatistics, College of Public Health, The Ohio State University. Dr. Ni's main research interests are in the individualized treatment regimen estimation with survival outcomes. He is also interested in regularized variable selection and causal inference under two-stage sampling designs with survival outcome. He collaborates with faculties from multiple colleges at OSU and Nationwide Children's Hospital on the design and analysis of various observational studies and clinical trials.
+
+-   **Title**: Contrast Weighted Learning for Individualized Treatment Rule Estimation
+
+-   **Abstract**: Precision medicine aims to tailor medical decisions based on patient-specific characteristics. An individualized treatment rule (ITR) assigns an optimal treatment to a patient based on their personal characteristics. An archetypal ITR estimation approach is outcome-weighted learning (OWL) based on a weighted classification framework with clinical outcomes as the weights. Existing OWL methods are susceptible to irregularities of outcome distributions, such as outliers and heavy tails. Moreover, it is unclear how these methods can be used for multivariate survival outcomes that are commonly encountered in cancer and cardiovascular research. In this study, we propose contrast-weighted learning (CWL) for ITR estimation. CWL exploits the flexibility and robustness of contrast functions between pairs of patients to enable robust ITR estimation for a wide range of clinical outcomes. By introducing win status into the contrast function, CWL naturally handles multivariate survival outcomes while incorporating the clinical importance of different events into ITR estimation. We established the theoretical properties of the estimated ITR. We conducted simulations to evaluate the finite sample performance of CWL in comparison to several alternative ITR estimation methods. Finally, we apply the proposed CWL method to three real datasets to demonstrate its real-world application.
+
+## Holly Hartman
+
+![Holly Hartman](images/HollyHartman-01.jpg)
+
+Dr. Holly Hartman is an assistant professor from Department of Population & Quantitative Health Sciences, Case Western Reserve University. Dr. Hartman’s research interests are focused on guiding patient care. She brings her strong statistical background to the design and analysis of clinical trials.
+
+- **Title**: Sequential, Multiple Assignment, Randomized Trials (SMARTs) with continuous
+outcomes and tailoring functions
+
+- **Abstract**: Multi-stage trials like sequential, multiple assignment, randomized trials (SMARTs)
+have typically relied on a binary variable to define response which is used in assigning the next
+stage treatment assignment. Instead, we develop a function of a continuous outcome to assign a
+probability of staying on the same treatment and then randomly assign the next treatment using a
+multinomial distribution. First, we develop a new trial design for small sample SMARTs
+(snSMARTs). The overall goal of the trial is to determine the optimal first stage treatment. We
+use a function, called the mapping function, to map the first stage outcome to a probability of
+staying on the same treatment and Bayesian regression methods to analyze data from both stages.
+Re-randomization based on a mapping function of a continuous outcome allows for snSMARTs
+to be conducted without requiring a binary outcome. Next, we apply similar concepts to a
+standard size SMART with continuous outcomes where the goal is to determine the optimal
+dynamic treatment regimen (DTR). We present a new trial design for SMARTs that use a
+tailoring function instead of a binary tailoring variable. In this trial design, we simultaneously
+develop a tailoring variable and estimate the DTR. We perform simulation studies to compare the
+proposed design with continuous outcomes to standard designs with binary outcomes. The
+proposed designs results in more efficient treatment effect estimates and similar or better
+outcomes for trial patients.
