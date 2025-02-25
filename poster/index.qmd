@@ -1,0 +1,67 @@
+---
+title: "Poster Competition"
+format: html
+---
+
+# Poster Competition Guidelines
+
+## Overview
+
+The **Top Three Poster Competition Awards** recognize outstanding poster presentations during the Lunch and Poster Session at the Joint Biostatistics Symposium. Each winner will receive a certificate and a gift card.
+
+## Eligibility
+
+While all researchers—including faculty, professionals, students, and trainees—are encouraged to submit and present posters, **only students and postdoctoral researchers** are eligible for the poster competition awards this year.
+
+**Eligibility Criteria:**
+
+- **Presentation Requirement:** Participants must present their research during the Poster Session on **Monday, April 7th, 2025**.
+- **Research Focus:** Submissions should feature either:
+  - Innovative quantitative methodologies
+  - Creative applications of statistical analyses pertinent to biometric applications
+- **Authorship:** The participant must be the first author. Co-authorship with faculty advisors or a limited number of collaborators is permitted.
+
+## Submission Guidelines
+
+- **Abstract Submission Deadline:** All abstracts must be submitted by **11:59 p.m. ET on March 12, 2025**.
+- **Submission Portal:** Submit your abstract through the [online form](https://docs.google.com/forms/d/e/1FAIpQLSetdMwOBPiGi2psZv-bDyl0oIrOypKEIot5OxC7KKEKs2PI8g/viewform?usp=header).
+- **Competition Participation:** Indicate your interest in the Poster Competition by selecting "YES" in the relevant section of the submission form.
+
+**Note:** Participants are required to register for the symposium prior to submission. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeFLIrPz0kwp0TFKJLpNdbs3dYRzF0t8hcry2C_JRePVRLMSw/viewform?usp=header).
+
+## Review and Judging Criteria
+
+Award winners will be selected based on an on-site evaluation during the Lunch and Poster Session.
+
+**Session Details:**
+
+- **Date and Time:** Monday, April 7, 2025, from 11:30 a.m. to 1:00 p.m.
+- **Presenter Availability:** Presenters should be stationed by their posters from **12:00 p.m. to 1:00 p.m.**
+
+**Evaluation Criteria:**
+
+1. **Visual Presentation:** Clarity and organization of the poster, including clear section headings and legible content.
+2. **Verbal Presentation:** Ability to effectively communicate the research problem, methodology, and findings.
+3. **Methodological Rigor:** Strength and innovation of the methodology and its relevance to the research objectives.
+
+Judges will circulate anonymously during the session and assess posters based on the criteria above.
+
+## Poster Preparation Tips
+
+- **Design and Layout:**
+  - **Title and Headings:** Use clear and concise titles with section headings to guide viewers.
+  - **Font Size:** Ensure all text is legible from a distance of at least 3 feet.
+  - **Visuals:** Incorporate high-quality graphics, charts, and images to complement the text.
+  - **White Space:** Balance text and visuals with adequate white space to enhance readability.
+
+- **Content Organization:**
+  - **Introduction:** Provide background and state the research question or hypothesis.
+  - **Methods:** Summarize the methodology concisely.
+  - **Results:** Highlight key findings with visual aids.
+  - **Conclusion:** Discuss the implications and potential future directions.
+
+For detailed guidance on creating effective posters, refer to resources such as the [Guide to Effective Poster Design](https://www.anl.gov/education/guide-to-effective-poster-design).
+
+---
+
+By adhering to these guidelines, participants can ensure a smooth submission process and enhance their chances of success in the Poster Competition.

@@ -229,5 +229,47 @@
     "title": "Institution Speaker",
     "section": "Holly Hartman",
     "text": "Holly Hartman\n\n\n\nHolly Hartman\n\n\nDr. Holly Hartman is an assistant professor from Department of Population & Quantitative Health Sciences, Case Western Reserve University. Dr. Hartman’s research interests are focused on guiding patient care. She brings her strong statistical background to the design and analysis of clinical trials.\n\nTitle: Sequential, Multiple Assignment, Randomized Trials (SMARTs) with continuous outcomes and tailoring functions\nAbstract: Multi-stage trials like sequential, multiple assignment, randomized trials (SMARTs) have typically relied on a binary variable to define response which is used in assigning the next stage treatment assignment. Instead, we develop a function of a continuous outcome to assign a probability of staying on the same treatment and then randomly assign the next treatment using a multinomial distribution. First, we develop a new trial design for small sample SMARTs (snSMARTs). The overall goal of the trial is to determine the optimal first stage treatment. We use a function, called the mapping function, to map the first stage outcome to a probability of staying on the same treatment and Bayesian regression methods to analyze data from both stages. Re-randomization based on a mapping function of a continuous outcome allows for snSMARTs to be conducted without requiring a binary outcome. Next, we apply similar concepts to a standard size SMART with continuous outcomes where the goal is to determine the optimal dynamic treatment regimen (DTR). We present a new trial design for SMARTs that use a tailoring function instead of a binary tailoring variable. In this trial design, we simultaneously develop a tailoring variable and estimate the DTR. We perform simulation studies to compare the proposed design with continuous outcomes to standard designs with binary outcomes. The proposed designs results in more efficient treatment effect estimates and similar or better outcomes for trial patients."
+  },
+  {
+    "objectID": "poster/index.html",
+    "href": "poster/index.html",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "The Top Three Poster Competition Awards recognize outstanding poster presentations during the Lunch and Poster Session at the Joint Biostatistics Symposium. Each winner will receive a certificate and a gift card.\n\n\n\nWhile all researchers—including faculty, professionals, students, and trainees—are encouraged to submit and present posters, only students and postdoctoral researchers are eligible for the poster competition awards this year.\nEligibility Criteria:\n\nPresentation Requirement: Participants must present their research during the Poster Session on Monday, April 7th, 2025.\nResearch Focus: Submissions should feature either:\n\nInnovative quantitative methodologies\nCreative applications of statistical analyses pertinent to biometric applications\n\nAuthorship: The participant must be the first author. Co-authorship with faculty advisors or a limited number of collaborators is permitted.\n\n\n\n\n\nAbstract Submission Deadline: All abstracts must be submitted by 11:59 p.m. ET on March 12, 2025.\nSubmission Portal: Submit your abstract through the online form.\nCompetition Participation: Indicate your interest in the Poster Competition by selecting “YES” in the relevant section of the submission form.\n\nNote: Participants are required to register for the symposium prior to submission. Register here.\n\n\n\nAward winners will be selected based on an on-site evaluation during the Lunch and Poster Session.\nSession Details:\n\nDate and Time: Monday, April 7, 2025, from 11:30 a.m. to 1:00 p.m.\nPresenter Availability: Presenters should be stationed by their posters from 12:00 p.m. to 1:00 p.m.\n\nEvaluation Criteria:\n\nVisual Presentation: Clarity and organization of the poster, including clear section headings and legible content.\nVerbal Presentation: Ability to effectively communicate the research problem, methodology, and findings.\nMethodological Rigor: Strength and innovation of the methodology and its relevance to the research objectives.\n\nJudges will circulate anonymously during the session and assess posters based on the criteria above.\n\n\n\n\nDesign and Layout:\n\nTitle and Headings: Use clear and concise titles with section headings to guide viewers.\nFont Size: Ensure all text is legible from a distance of at least 3 feet.\nVisuals: Incorporate high-quality graphics, charts, and images to complement the text.\nWhite Space: Balance text and visuals with adequate white space to enhance readability.\n\nContent Organization:\n\nIntroduction: Provide background and state the research question or hypothesis.\nMethods: Summarize the methodology concisely.\nResults: Highlight key findings with visual aids.\nConclusion: Discuss the implications and potential future directions.\n\n\nFor detailed guidance on creating effective posters, refer to resources such as the Guide to Effective Poster Design.\n\nBy adhering to these guidelines, participants can ensure a smooth submission process and enhance their chances of success in the Poster Competition."
+  },
+  {
+    "objectID": "poster/index.html#overview",
+    "href": "poster/index.html#overview",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "The Top Three Poster Competition Awards recognize outstanding poster presentations during the Lunch and Poster Session at the Joint Biostatistics Symposium. Each winner will receive a certificate and a gift card."
+  },
+  {
+    "objectID": "poster/index.html#eligibility",
+    "href": "poster/index.html#eligibility",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "While all researchers—including faculty, professionals, students, and trainees—are encouraged to submit and present posters, only students and postdoctoral researchers are eligible for the poster competition awards this year.\nEligibility Criteria:\n\nPresentation Requirement: Participants must present their research during the Poster Session on Monday, April 7th, 2025.\nResearch Focus: Submissions should feature either:\n\nInnovative quantitative methodologies\nCreative applications of statistical analyses pertinent to biometric applications\n\nAuthorship: The participant must be the first author. Co-authorship with faculty advisors or a limited number of collaborators is permitted."
+  },
+  {
+    "objectID": "poster/index.html#submission-guidelines",
+    "href": "poster/index.html#submission-guidelines",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "Abstract Submission Deadline: All abstracts must be submitted by 11:59 p.m. ET on March 12, 2025.\nSubmission Portal: Submit your abstract through the online form.\nCompetition Participation: Indicate your interest in the Poster Competition by selecting “YES” in the relevant section of the submission form.\n\nNote: Participants are required to register for the symposium prior to submission. Register here."
+  },
+  {
+    "objectID": "poster/index.html#review-and-judging-criteria",
+    "href": "poster/index.html#review-and-judging-criteria",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "Award winners will be selected based on an on-site evaluation during the Lunch and Poster Session.\nSession Details:\n\nDate and Time: Monday, April 7, 2025, from 11:30 a.m. to 1:00 p.m.\nPresenter Availability: Presenters should be stationed by their posters from 12:00 p.m. to 1:00 p.m.\n\nEvaluation Criteria:\n\nVisual Presentation: Clarity and organization of the poster, including clear section headings and legible content.\nVerbal Presentation: Ability to effectively communicate the research problem, methodology, and findings.\nMethodological Rigor: Strength and innovation of the methodology and its relevance to the research objectives.\n\nJudges will circulate anonymously during the session and assess posters based on the criteria above."
+  },
+  {
+    "objectID": "poster/index.html#poster-preparation-tips",
+    "href": "poster/index.html#poster-preparation-tips",
+    "title": "Poster Competition",
+    "section": "",
+    "text": "Design and Layout:\n\nTitle and Headings: Use clear and concise titles with section headings to guide viewers.\nFont Size: Ensure all text is legible from a distance of at least 3 feet.\nVisuals: Incorporate high-quality graphics, charts, and images to complement the text.\nWhite Space: Balance text and visuals with adequate white space to enhance readability.\n\nContent Organization:\n\nIntroduction: Provide background and state the research question or hypothesis.\nMethods: Summarize the methodology concisely.\nResults: Highlight key findings with visual aids.\nConclusion: Discuss the implications and potential future directions.\n\n\nFor detailed guidance on creating effective posters, refer to resources such as the Guide to Effective Poster Design.\n\nBy adhering to these guidelines, participants can ensure a smooth submission process and enhance their chances of success in the Poster Competition."
   }
 ]
