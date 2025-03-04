@@ -5,9 +5,9 @@ format: html
 
 ## Christopher Boyer
 
-![Christoph Boyer](images/christoph.jpg){.center width="300px"}
+![Christopher Boyer](images/christoph.jpg){.center width="300px"}
 
-Dr. Christoph Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.
+Dr. Christopher Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.
 
 ## Andy Ni
 
