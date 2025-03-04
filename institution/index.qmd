@@ -3,7 +3,7 @@ title: "Institution Speaker"
 format: html
 ---
 
-## Christoph Boyer
+## Christopher Boyer
 
 ![Christoph Boyer](images/christoph.jpg){.center width="300px"}
 
