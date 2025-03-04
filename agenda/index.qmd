@@ -1,5 +1,5 @@
 ---
-title: "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM"
+title: "2025 Northeast Ohio Annual Joint Biostatistics Symposium"
 format: html
 ---
 
@@ -13,7 +13,7 @@ format: html
 
 ---
 
--   **10:30 am** - Opening remarks and introduction: **Gary Schwartz, Director of Case Comprehensive Cancer Center**
+-   **10:30 am** - Opening remarks and introduction: **J.Michael Oakes, Gary Schwartz**
 
 ---
 
@@ -43,11 +43,11 @@ format: html
 
 ---
 
--   **2:40 pm -- 2:50 pm** - **Poster Awards**
+-   **2:40 pm -- 2:50 pm** - Poster Awards and Remarks: **Jonathan Haines**
 
 ---
 
--   **2:50 pm -- 3:00 pm** - Closing Remarks: **Stan Gerson, Dean of School of Medicine**
+-   **2:50 pm -- 3:00 pm** - Closing Remarks: **Stan Gerson**
 
 ### **Keynote Presentation**
 
