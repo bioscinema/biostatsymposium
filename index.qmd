@@ -7,7 +7,7 @@ output: html
 <!-- Add the CWRU logo at the top -->
 
 ::: {style="text-align: center;"}
-<img src="/ccf.jpg" width="200px"/> <img src="/cwru_new.png" width="250px"/><img src="/osu.jpg" width="250px"/>
+<img src="/cwru_new.png" width="249"/> <img src="/ccf.jpg" width="173"/> <img src="/osu.jpg" width="250px"/>
 :::
 
 # Welcome to the Annual Joint Biostatistics Symposium 2025
@@ -25,7 +25,7 @@ The Joint Biostatistics Symposium is traditionally hosted on a rotating basis by
 
 Registration is free! To help us plan accurately for lunch, please register by March 9th to secure your free meal.
 
-If you have any questions, please conatct us (cinema\@case.edu)!
+If you have any questions, please contact us (cinema\@case.edu)!
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ We look forward to welcoming you!
 
 ## Keynote Speaker
 
-Our keynote speaker this year is **[Dr. Jeff Leek](https://jtleek.com/)**, a world-renowned biostatistician in human gene expression using machine learning and data science.
+Our keynote speaker this year is [**Dr. Jeff Leek**](https://jtleek.com/), a world-renowned biostatistician in human gene expression using machine learning and data science.
 
 ![Dr. Jeff Leek](Jeff.png){.center width="300px"}
 
@@ -61,13 +61,11 @@ Our keynote speaker this year is **[Dr. Jeff Leek](https://jtleek.com/)**, a wor
 
 ## Institution Speaker:
 
--   Christopher Boyer from Department of Quantitative Health Sciences, Cleveland
-Clinic.
+-   Christopher Boyer from Department of Quantitative Health Sciences, Cleveland Clinic.
 
 -   Andy Ni from Division of Biostatistics, College of Public Health, The Ohio State University.
 
 -   Holly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University.
-
 
 ## Symposium Organizing Committee:
 

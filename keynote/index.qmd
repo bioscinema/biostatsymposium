@@ -10,20 +10,15 @@ format: html
 ## Dr. Jeff Leek
 
 **Title & Affiliation**\
-Vice President and Chief Data Officer
-Fred Hutch
+Vice President and Chief Data Officer Fred Hutch
 
-Professor, Biostatistics Program
-Public Health Sciences Division, Fred Hutch
+Professor, Biostatistics Program Public Health Sciences Division, Fred Hutch
 
-Member
-Translational Data Science Integrated Research Center (TDS IRC), Fred Hutch
+Member Translational Data Science Integrated Research Center (TDS IRC), Fred Hutch
 
-J. Orin Edson Foundation Endowed Chair
-Fred Hutch
+J. Orin Edson Foundation Endowed Chair Fred Hutch
 
 📍 **Talk Title:** "Building an oncology AI engine at the Fred Hutch and beyond"\
-
 
 ## 🔬 About the Speaker
 
@@ -31,7 +26,6 @@ Dr. Jeff is a distinguished biostatistician known for his engaging style and abi
 
 ## Abstract
 
-Artificial intelligence and machine learning are having a transformative impact across industries; but real impact in the biomedical sciences and other regulated industries has been slower. In this talk, I will discuss the challenges and opportunities in each component of an AI system  in biomedicine – the data, the models, the interfaces, and the people and discuss our efforts at the Fred Hutch to build an “artificial intelligence engine” that connects the most up to date clinical information with collaborative groups of AI researchers and oncologists to drive practical AI impact. I will also discuss our efforts to extend this model nationally with the Cancer AI Alliance (CAIA). I will discuss how and why I believe biostatisticians, working with diverse other technologists, medical scientists, and ethical and legal experts, can have a major impact on biomedicine for the next decade.
-
+Artificial intelligence and machine learning are having a transformative impact across industries; but real impact in the biomedical sciences and other regulated industries has been slower. In this talk, I will discuss the challenges and opportunities in each component of an AI system in biomedicine -- the data, the models, the interfaces, and the people and discuss our efforts at the Fred Hutch to build an "artificial intelligence engine" that connects the most up to date clinical information with collaborative groups of AI researchers and oncologists to drive practical AI impact. I will also discuss our efforts to extend this model nationally with the Cancer AI Alliance (CAIA). I will discuss how and why I believe biostatisticians, working with diverse other technologists, medical scientists, and ethical and legal experts, can have a major impact on biomedicine for the next decade.
 
 ------------------------------------------------------------------------
