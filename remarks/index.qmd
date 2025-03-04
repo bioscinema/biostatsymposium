@@ -7,7 +7,11 @@ format: html
 
 ## J. Michael Oakes
 
-![Dr. J. Michael Oakes](images/Oakes%20-%20headshot.jpeg){.center width="300px"}
+![](images/Oakes%20-%20headshot.jpeg){.rounded fig-align="center" width="250"}
+
+::: {style="text-align: center;"}
+Dr. J. Michael Oakes
+:::
 
 **Senior Vice President for Research, Office of Research and Technology Management**
 
@@ -19,7 +23,11 @@ Dr. Michael Oakes, Case Western Reserve University's inaugural Senior Vice Presi
 
 ## Gary Schwartz
 
-![Dr. Gary Schwartz](images/Schwartz-Gary.webp){.center width="300px"}
+![](images/Schwartz-Gary.webp){.rounded fig-align="center" width="250"}
+
+::: {style="text-align: center;"}
+Dr. Gary Schwartz
+:::
 
 **Director, Case Comprehensive Cancer Center**
 
@@ -33,7 +41,11 @@ Dr. Gary Schwartz is the Director of the Case Comprehensive Cancer Center (Case 
 
 ## Jonathan Haines
 
-![Dr. Jonathan Haines](images/Jonathan%20Haines%20cropped.png){.center width="300px"}
+![](images/Jonathan%20Haines%20cropped.png){.rounded fig-align="center" width="250"}
+
+::: {style="text-align: center;"}
+Dr. Jonathan Haines
+:::
 
 **Chair, Department of Population and Quantitative Health Sciences, School of Medicine**
 
@@ -51,7 +63,11 @@ Dr. Jonathan Haines is an internationally recognized researcher and educator wit
 
 ## Stan Gerson
 
-![Dr. Stan Gerson](images/gerson-stan-new.png){.center width="300px"}
+![](images/gerson-stan-new.png){.rounded fig-align="center" width="250"}
+
+::: {style="text-align: center;"}
+Dr. Stan Gerson
+:::
 
 **Dean, School of Medicine**
 

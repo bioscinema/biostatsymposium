@@ -5,7 +5,11 @@ format: html
 
 # 🎤 Keynote Speaker
 
-![Keynote Speaker](Jeff.png){.rounded width="250"}
+![](Jeff.png){.rounded fig-align="center" width="250"}
+
+::: {style="text-align: center;"}
+Dr. Jeff Leek
+:::
 
 ## Dr. Jeff Leek
 
