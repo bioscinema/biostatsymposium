@@ -16,6 +16,8 @@ website:
       - href: institution/index.qmd
         text: Institution Speaker
       - href: poster/index.qmd
+      - href: remarks/index.qmd
+        text: Notable Remarks
       - href: agenda/index.qmd
         text: Agenda
       - href: Registration/index.qmd
