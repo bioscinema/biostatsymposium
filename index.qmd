@@ -98,6 +98,7 @@ The named lecture is the **Jack H. Berman, MD Lecture Fund**. As stated earlier,
 
 -   **Jack H. Berman, MD Lecture Fund**
 -   **Case Comprehensive Cancer Center**
+-   **Department of Population & Quantitative Health Sciences**
 
 ::: {style="text-align: center;"}
 <img src="/som_cwru.png" width="250px"/>
