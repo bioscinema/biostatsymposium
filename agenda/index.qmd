@@ -1,5 +1,5 @@
 ---
-title: "2025 Northeast Ohio Annual Joint Biostatistics Symposium"
+title: "2025 Joint Biostatistics Symposium"
 format: html
 ---
 
