@@ -11,16 +11,16 @@ website:
   navbar:
     background: "#536878"
     left:
+      - href: agenda/index.qmd
+        text: Agenda
       - href: keynote/index.qmd
         text: Keynote Speaker
       - href: institution/index.qmd
         text: Institution Speaker
-      - href: poster/index.qmd
-        text: Poster Registration
       - href: remarks/index.qmd
         text: Notable Remarks
-      - href: agenda/index.qmd
-        text: Agenda
+      - href: poster/index.qmd
+        text: Poster Registration
       - href: Registration/index.qmd
         text: Registration
       # - href: software/index.qmd

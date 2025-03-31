@@ -13,7 +13,7 @@ format: html
 
 ---
 
--   **10:30 am** - Opening remarks and introduction: **J.Michael Oakes, Gary Schwartz**
+-   **10:30 am** - Opening remarks and introduction: **Gary Schwartz, J.Michael Oakes**
 
 ---
 
@@ -47,13 +47,13 @@ format: html
 
 ---
 
--   **2:50 pm -- 3:00 pm** - Closing Remarks: **Stan Gerson**
+-   **2:50 pm -- 3:00 pm** - Remarks and Keynote Speaker introduction: **Dean Stan Gerson**
 
 ### **Keynote Presentation**
 
 -   **3:00 pm -- 4:00 pm**\
     **Jeff Leek**, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\
-    **Presentation title:** *"AI in Translational Oncology"*
+    **Presentation title:** *"Building an oncology AI engine at the Fred Hutch and beyond"*
 
 ------------------------------------------------------------------------
 
