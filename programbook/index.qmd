@@ -1,0 +1,10 @@
+---
+title: "Program book"
+output: html
+---
+
+## Program book Preview
+
+<embed src="BiostatsSymposiumAgenda.pdf" type="application/pdf" width="100%" height="600px" />
+
+[📥 Download PDF](BiostatsSymposiumAgenda.pdf)
