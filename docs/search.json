@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "index.html#keynote-speaker",
-    "href": "index.html#keynote-speaker",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Keynote Speaker",
-    "text": "Keynote Speaker\nOur keynote speaker this year is Dr. Jeff Leek, a world-renowned biostatistician in human gene expression using machine learning and data science.\n\n\n\nDr. Jeff Leek"
+    "objectID": "Registration/index.html#symposium-registration",
+    "href": "Registration/index.html#symposium-registration",
+    "title": "Registration",
+    "section": "Symposium Registration",
+    "text": "Symposium Registration\nResearchers from all institutions are welcome to register; however, please note that in-person attendance is required. Complimentary lunch will be provided for reservations made by March 12. The registration link is attached in the bottom of home page, you can also register here: Click here to register for Symposium 2025!."
   },
   {
-    "objectID": "index.html#registration",
-    "href": "index.html#registration",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Registration",
-    "text": "Registration\nClick here to register for Symposium 2025!\nRegistration is free! To help us plan accurately for lunch, please register by March 9th to secure your free meal.\nIf you have any questions, please contact us (cinema@case.edu)!"
+    "objectID": "Registration/index.html#poster-registration",
+    "href": "Registration/index.html#poster-registration",
+    "title": "Registration",
+    "section": "Poster Registration",
+    "text": "Poster Registration\nWe wholeheartedly encourage every researchers to participate and showcase their innovative work, and we welcome institutions across the region to join in. Don’t miss out on this exciting opportunity to present your research and gain valuable recognition! If you want to participate poster session, please click here and register by March 12. All researchers, including faculty, professionals, students and trainees, are encouraged to submit and present a poster at the symposium. But to ensure a fair comparison, only students and postdoctoral researchers will be considered for the poster award competition this year.\n\nPlease register the symposium before March 12th! If you are interested in poster session, please submit the poster session registration before March 12th!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "agenda/index.html",
@@ -21,11 +28,95 @@
     "text": "10:00 am - Registration and Poster Set up\n\n\n\n10:30 am - Opening remarks and introduction: Gary Schwartz, J.Michael Oakes\n\n\n\n10:50 am – 11:30 am - Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer\n\n\n\n11:30 am – 1:00 pm - Lunch and Poster Session\n\n\n\n\n\n\n1:00 pm – 1:40 pm - Speaker from The Ohio State University: Andy Ni\n\n\n\n1:40 pm – 1:50 pm - Break\n\n\n\n1:50 pm – 2:30 pm - Speaker from Case Western Reserve University: Holly Hartman\n\n\n\n2:30 pm – 2:40 pm - Break\n\n\n\n2:40 pm – 2:50 pm - Poster Awards and Remarks: Jonathan Haines\n\n\n\n2:50 pm – 3:00 pm - Remarks and Keynote Speaker introduction: Dean Stan Gerson\n\n\n\n\n\n3:00 pm – 4:00 pm\nJeff Leek, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\nPresentation title: “Building an oncology AI engine at the Fred Hutch and beyond”\n\n\n\n\n\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\n\n\n\n📍 11173 East Boulevard, Cleveland, Ohio 44106"
   },
   {
-    "objectID": "agenda/index.html#session-details",
-    "href": "agenda/index.html#session-details",
-    "title": "Symposium Agenda",
+    "objectID": "agenda/index.html#schedule",
+    "href": "agenda/index.html#schedule",
+    "title": "2025 Joint Biostatistics Symposium",
     "section": "",
-    "text": "📍 Speaker: [Speaker Name]\n📍 Topic: [Short Description]\n📍 Time: [Time Slot]\nRead More\n\n\n\n📍 Panelists: [Names]\n📍 Time: [Time Slot]\nRead More\n\n📢 Register Now!\n📧 Questions? Contact us at email@example.com"
+    "text": "10:00 am - Registration and Poster Set up\n\n\n\n10:30 am - Opening remarks and introduction: Gary Schwartz, J.Michael Oakes\n\n\n\n10:50 am – 11:30 am - Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer\n\n\n\n11:30 am – 1:00 pm - Lunch and Poster Session\n\n\n\n\n\n\n1:00 pm – 1:40 pm - Speaker from The Ohio State University: Andy Ni\n\n\n\n1:40 pm – 1:50 pm - Break\n\n\n\n1:50 pm – 2:30 pm - Speaker from Case Western Reserve University: Holly Hartman\n\n\n\n2:30 pm – 2:40 pm - Break\n\n\n\n2:40 pm – 2:50 pm - Poster Awards and Remarks: Jonathan Haines\n\n\n\n2:50 pm – 3:00 pm - Remarks and Keynote Speaker introduction: Dean Stan Gerson\n\n\n\n\n\n3:00 pm – 4:00 pm\nJeff Leek, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\nPresentation title: “Building an oncology AI engine at the Fred Hutch and beyond”\n\n\n\n\n\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\n\n\n\n📍 11173 East Boulevard, Cleveland, Ohio 44106"
+  },
+  {
+    "objectID": "index.html#registration",
+    "href": "index.html#registration",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Registration",
+    "text": "Registration\nClick here to register for Symposium 2025!\nRegistration is free! To help us plan accurately for lunch, please register by March 9th to secure your free meal.\nIf you have any questions, please contact us (cinema@case.edu)!"
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Event Details",
+    "text": "Event Details\nDate: April 7th, 2025\nTime: 10:30 am ~ 04:00 pm\nFormat: In-person only\nAddress: Tinkham Veale University Center Ball Room A&B\nParking: 11173 East Boulevard, Cleveland, Ohio 44106"
+  },
+  {
+    "objectID": "index.html#detailed-agenda",
+    "href": "index.html#detailed-agenda",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Detailed agenda",
+    "text": "Detailed agenda"
+  },
+  {
+    "objectID": "index.html#theme-data-science-ai-and-biomedical-research",
+    "href": "index.html#theme-data-science-ai-and-biomedical-research",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Theme: Data Science, AI and Biomedical Research",
+    "text": "Theme: Data Science, AI and Biomedical Research\nWe are thrilled to invite you to our annual Joint Biostatistics Symposium. The 2025 Joint Biostatistics Symposium, themed ‘Integrating Data Science with Biomedical Innovations,’ is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year’s focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.\nWe look forward to welcoming you!"
+  },
+  {
+    "objectID": "index.html#keynote-speaker",
+    "href": "index.html#keynote-speaker",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Keynote Speaker",
+    "text": "Keynote Speaker\nOur keynote speaker this year is Dr. Jeff Leek, a world-renowned biostatistician in human gene expression using machine learning and data science.\n\n\n\nDr. Jeff Leek"
+  },
+  {
+    "objectID": "index.html#institution-speaker",
+    "href": "index.html#institution-speaker",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Institution Speaker:",
+    "text": "Institution Speaker:\n\nChristopher Boyer from Department of Quantitative Health Sciences, Cleveland Clinic.\nAndy Ni from Division of Biostatistics, College of Public Health, The Ohio State University.\nHolly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University."
+  },
+  {
+    "objectID": "index.html#symposium-organizing-committee",
+    "href": "index.html#symposium-organizing-committee",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Symposium Organizing Committee:",
+    "text": "Symposium Organizing Committee:\n\nLiangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song, Jonathan Haines, Sudha K. Iyengar from Department of Population & Quantitative Health Sciences, Weihong Guo from Department of Mathematics, Applied Mathematics, and Statistics, Case Western Reserve University."
+  },
+  {
+    "objectID": "index.html#symposium-steering-committee",
+    "href": "index.html#symposium-steering-committee",
+    "title": "2025 Joint Biostatistics Symposium",
+    "section": "Symposium Steering Committee:",
+    "text": "Symposium Steering Committee:\n\nXiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nGerald Beck (Department of Quantitative Health Sciences, The Cleveland Clinic)\nMichael Pennell (Division of Biostatistics, College of Public Health, The Ohio State University)\nShili Lin (Department of Statistics, The Ohio State University)\nQing Wu (Department of Biomedical Informatics, The Ohio State University)\n\n\n\n\n\n\n\n\nSponsorship & Acknowledgments\n\n\n\nThe named lecture is the Jack H. Berman, MD Lecture Fund. As stated earlier, the purpose of the fund is:\n\n“To support a program of guest lecturers who will discuss the basic science behind disease and its application to patient care.”\n\n\nFunding Acknowledgments\n\nJack H. Berman, MD Lecture Fund\nCase Comprehensive Cancer Center\nDepartment of Population & Quantitative Health Sciences"
+  },
+  {
+    "objectID": "institution/index.html",
+    "href": "institution/index.html",
+    "title": "Institution Speaker",
+    "section": "",
+    "text": "Dr. Christopher Boyer\n\nDr. Christopher Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.\n\nTitle: Counterfactual prediction: A framework for estimation, validation, and transportability of models under hypothetical interventions\nAbstract: Counterfactual prediction methods are required when a model will be deployed in a setting where treatment policies differ from the setting where the model was developed, or when a model provides predictions under hypothetical interventions to support decision-making. However, estimating and evaluating counterfactual prediction models is challenging because, unlike traditional (factual) prediction, one does not observe the full set of potential outcomes for all individuals. Here, we discuss how to fit or tailor a model to target a counterfactual estimand, how to assess the model’s performance, and how to perform model and tuning parameter selection when (1) data are available from a randomized trial in a source population that differs from the target population in which the model will be deployed, (2) data are available from an observational study conducted in the target population, or (3) both are available. We provide identifiability and estimation results for building a counterfactual prediction model and for multiple measures of counterfactual model performance including loss-based measures, the area under the receiver operating characteristics curve, and calibration. Importantly, our results allow valid estimates of model performance under counterfactual intervention even if the candidate model is misspecified, permitting a wider array of use cases. We illustrate these methods using simulation and apply them to representative counterfactual prediction tasks in cardiovascular disease."
+  },
+  {
+    "objectID": "institution/index.html#christopher-boyer",
+    "href": "institution/index.html#christopher-boyer",
+    "title": "Institution Speaker",
+    "section": "",
+    "text": "Dr. Christopher Boyer\n\nDr. Christopher Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.\n\nTitle: Counterfactual prediction: A framework for estimation, validation, and transportability of models under hypothetical interventions\nAbstract: Counterfactual prediction methods are required when a model will be deployed in a setting where treatment policies differ from the setting where the model was developed, or when a model provides predictions under hypothetical interventions to support decision-making. However, estimating and evaluating counterfactual prediction models is challenging because, unlike traditional (factual) prediction, one does not observe the full set of potential outcomes for all individuals. Here, we discuss how to fit or tailor a model to target a counterfactual estimand, how to assess the model’s performance, and how to perform model and tuning parameter selection when (1) data are available from a randomized trial in a source population that differs from the target population in which the model will be deployed, (2) data are available from an observational study conducted in the target population, or (3) both are available. We provide identifiability and estimation results for building a counterfactual prediction model and for multiple measures of counterfactual model performance including loss-based measures, the area under the receiver operating characteristics curve, and calibration. Importantly, our results allow valid estimates of model performance under counterfactual intervention even if the candidate model is misspecified, permitting a wider array of use cases. We illustrate these methods using simulation and apply them to representative counterfactual prediction tasks in cardiovascular disease."
+  },
+  {
+    "objectID": "institution/index.html#andy-ni",
+    "href": "institution/index.html#andy-ni",
+    "title": "Institution Speaker",
+    "section": "Andy Ni",
+    "text": "Andy Ni\n\n\n\n\n\n\nDr. Andy Ni\n\nDr. Andy Ni is an assistant professor from Division of Biostatistics, College of Public Health, The Ohio State University. Dr. Ni’s main research interests are in the individualized treatment regimen estimation with survival outcomes. He is also interested in regularized variable selection and causal inference under two-stage sampling designs with survival outcome. He collaborates with faculties from multiple colleges at OSU and Nationwide Children’s Hospital on the design and analysis of various observational studies and clinical trials.\n\nTitle: Contrast Weighted Learning for Individualized Treatment Rule Estimation\nAbstract: Precision medicine aims to tailor medical decisions based on patient-specific characteristics. An individualized treatment rule (ITR) assigns an optimal treatment to a patient based on their personal characteristics. An archetypal ITR estimation approach is outcome-weighted learning (OWL) based on a weighted classification framework with clinical outcomes as the weights. Existing OWL methods are susceptible to irregularities of outcome distributions, such as outliers and heavy tails. Moreover, it is unclear how these methods can be used for multivariate survival outcomes that are commonly encountered in cancer and cardiovascular research. In this study, we propose contrast-weighted learning (CWL) for ITR estimation. CWL exploits the flexibility and robustness of contrast functions between pairs of patients to enable robust ITR estimation for a wide range of clinical outcomes. By introducing win status into the contrast function, CWL naturally handles multivariate survival outcomes while incorporating the clinical importance of different events into ITR estimation. We established the theoretical properties of the estimated ITR. We conducted simulations to evaluate the finite sample performance of CWL in comparison to several alternative ITR estimation methods. Finally, we apply the proposed CWL method to three real datasets to demonstrate its real-world application."
+  },
+  {
+    "objectID": "institution/index.html#holly-hartman",
+    "href": "institution/index.html#holly-hartman",
+    "title": "Institution Speaker",
+    "section": "Holly Hartman",
+    "text": "Holly Hartman\n\n\n\n\n\n\nDr. Holly Hartman\n\nDr. Holly Hartman is an assistant professor from Department of Population & Quantitative Health Sciences, Case Western Reserve University. Dr. Hartman’s research interests are focused on guiding patient care. She brings her strong statistical background to the design and analysis of clinical trials.\n\nTitle: Sequential, Multiple Assignment, Randomized Trials (SMARTs) with continuous outcomes and tailoring functions\nAbstract: Multi-stage trials like sequential, multiple assignment, randomized trials (SMARTs) have typically relied on a binary variable to define response which is used in assigning the next stage treatment assignment. Instead, we develop a function of a continuous outcome to assign a probability of staying on the same treatment and then randomly assign the next treatment using a multinomial distribution. First, we develop a new trial design for small sample SMARTs (snSMARTs). The overall goal of the trial is to determine the optimal first stage treatment. We use a function, called the mapping function, to map the first stage outcome to a probability of staying on the same treatment and Bayesian regression methods to analyze data from both stages. Re-randomization based on a mapping function of a continuous outcome allows for snSMARTs to be conducted without requiring a binary outcome. Next, we apply similar concepts to a standard size SMART with continuous outcomes where the goal is to determine the optimal dynamic treatment regimen (DTR). We present a new trial design for SMARTs that use a tailoring function instead of a binary tailoring variable. In this trial design, we simultaneously develop a tailoring variable and estimate the DTR. We perform simulation studies to compare the proposed design with continuous outcomes to standard designs with binary outcomes. The proposed designs results in more efficient treatment effect estimates and similar or better outcomes for trial patients."
   },
   {
     "objectID": "keynote/index.html",
@@ -49,62 +140,6 @@
     "text": "Dr. Jeff is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science."
   },
   {
-    "objectID": "keynote/index.html#talk-overview",
-    "href": "keynote/index.html#talk-overview",
-    "title": "Keynote Speaker",
-    "section": "",
-    "text": "This keynote will cover: - ✅ [Key Topic 1] - ✅ [Key Topic 2] - ✅ [Key Topic 3]\n\n“A quote from the speaker or related to the topic.” – Dr. [Speaker Name]"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "speaker.html",
-    "href": "speaker.html",
-    "title": "Keynote Speaker",
-    "section": "",
-    "text": "Meet Our Keynote Speaker: Dr. Jeff Leek\n\n\n\nDr. Jane Smith\n\n\nDr. Jane Smith is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.\n“The Future of [Your Topic]”\nDon’t miss this inspiring talk!\nBack to Home"
-  },
-  {
-    "objectID": "Registration/index.html",
-    "href": "Registration/index.html",
-    "title": "Registration Information",
-    "section": "",
-    "text": "The registration link is attached in the bottom of home page, you can also register here: Click here to register for Symposium 2025!\nIn addition to the oral presentations, we’re thrilled to introduce a brand-new Student Poster Presentation Award this year! We wholeheartedly encourage every student to participate and showcase their innovative work, and we welcome all institutions in this area to join in. Don’t miss out on this exciting opportunity to showcase your work! If you want to participate poster session, please click here.\nPlease register the symposium before March 9th! If you are interested in poster session, please submit the poster session registration before March 9th!"
-  },
-  {
-    "objectID": "agenda/index.html#schedule",
-    "href": "agenda/index.html#schedule",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "",
-    "text": "10:00 am - Registration and Poster Set up\n\n\n\n10:30 am - Opening remarks and introduction: Gary Schwartz, J.Michael Oakes\n\n\n\n10:50 am – 11:30 am - Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer\n\n\n\n11:30 am – 1:00 pm - Lunch and Poster Session\n\n\n\n\n\n\n1:00 pm – 1:40 pm - Speaker from The Ohio State University: Andy Ni\n\n\n\n1:40 pm – 1:50 pm - Break\n\n\n\n1:50 pm – 2:30 pm - Speaker from Case Western Reserve University: Holly Hartman\n\n\n\n2:30 pm – 2:40 pm - Break\n\n\n\n2:40 pm – 2:50 pm - Poster Awards and Remarks: Jonathan Haines\n\n\n\n2:50 pm – 3:00 pm - Remarks and Keynote Speaker introduction: Dean Stan Gerson\n\n\n\n\n\n3:00 pm – 4:00 pm\nJeff Leek, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\nPresentation title: “Building an oncology AI engine at the Fred Hutch and beyond”\n\n\n\n\n\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\n\n\n\n📍 11173 East Boulevard, Cleveland, Ohio 44106"
-  },
-  {
-    "objectID": "agenda/index.html#contact-information",
-    "href": "agenda/index.html#contact-information",
-    "title": "2025 Northeast Ohio ANNUAL JOINT BIOSTATISTICS SYMPOSIUM",
-    "section": "",
-    "text": "For any questions, please contact [Your Contact Email]."
-  },
-  {
-    "objectID": "index.html#event-details",
-    "href": "index.html#event-details",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Event Details",
-    "text": "Event Details\nDate: April 7th, 2025\nTime: 10:30 am ~ 04:00 pm\nFormat: In-person only\nAddress: Tinkham Veale University Center Ball Room A&B\nParking: 11173 East Boulevard, Cleveland, Ohio 44106"
-  },
-  {
-    "objectID": "index.html#deatailed-schedule",
-    "href": "index.html#deatailed-schedule",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "Deatailed schedule",
-    "text": "Deatailed schedule"
-  },
-  {
     "objectID": "keynote/index.html#abstract",
     "href": "keynote/index.html#abstract",
     "title": "Keynote Speaker",
@@ -112,137 +147,11 @@
     "text": "Artificial intelligence and machine learning are having a transformative impact across industries; but real impact in the biomedical sciences and other regulated industries has been slower. In this talk, I will discuss the challenges and opportunities in each component of an AI system in biomedicine – the data, the models, the interfaces, and the people and discuss our efforts at the Fred Hutch to build an “artificial intelligence engine” that connects the most up to date clinical information with collaborative groups of AI researchers and oncologists to drive practical AI impact. I will also discuss our efforts to extend this model nationally with the Cancer AI Alliance (CAIA). I will discuss how and why I believe biostatisticians, working with diverse other technologists, medical scientists, and ethical and legal experts, can have a major impact on biomedicine for the next decade."
   },
   {
-    "objectID": "index.html#symposium-managing-committee",
-    "href": "index.html#symposium-managing-committee",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "Symposium Managing Committee:",
-    "text": "Symposium Managing Committee:\n\nLiangliang Zhang (Co-chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nXiaofeng Zhu (Co-Chair; Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nMichael Pennell (Department of Biostatistics, The Ohio State University)\nShili Lin (Department of Statistics, The Ohio State University)\nQing Wu (Department of Biomedical Informatics, The Ohio State University)"
-  },
-  {
-    "objectID": "index.html#theme-data-science-ai-and-biomedical-research",
-    "href": "index.html#theme-data-science-ai-and-biomedical-research",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Theme: Data Science, AI and Biomedical Research",
-    "text": "Theme: Data Science, AI and Biomedical Research\nWe are thrilled to invite you to our annual Joint Biostatistics Symposium. The 2025 Joint Biostatistics Symposium, themed ‘Integrating Data Science with Biomedical Innovations,’ is set to attract substantial interest from medical faculty, students, and researchers throughout the Cleveland and Columbus area, particularly those involved in cancer research. This year’s focus highlights the growing importance of artificial intelligence in biomedical research, emphasizing how AI-driven approaches can revolutionize the field by enhancing diagnostic accuracy, streamlining treatment decisions, and driving advancements in personalized care.\nWe look forward to welcoming you!"
-  },
-  {
-    "objectID": "index.html#symposium-steering-committee",
-    "href": "index.html#symposium-steering-committee",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Symposium Steering Committee:",
-    "text": "Symposium Steering Committee:\n\nXiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nGerald Beck (Department of Quantitative Health Sciences, The Cleveland Clinic)\nMichael Pennell (Division of Biostatistics, College of Public Health, The Ohio State University)\nShili Lin (Department of Statistics, The Ohio State University)\nQing Wu (Department of Biomedical Informatics, The Ohio State University)\n\n\n\n\n\n\n\n\nSponsorship & Acknowledgments\n\n\n\nThe named lecture is the Jack H. Berman, MD Lecture Fund. As stated earlier, the purpose of the fund is:\n\n“To support a program of guest lecturers who will discuss the basic science behind disease and its application to patient care.”\n\n\nFunding Acknowledgments\n\nJack H. Berman, MD Lecture Fund\nCase Comprehensive Cancer Center\nDepartment of Population & Quantitative Health Sciences"
-  },
-  {
-    "objectID": "index.html#local-committee",
-    "href": "index.html#local-committee",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "Local Committee:",
-    "text": "Local Committee:\n\nLiangliang Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nXiaofeng Zhu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nMing Wang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nLijun Zhang (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nHolly Hartman (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nJeffery M. Albert (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nAbdus Sattar (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nHao Feng (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nPingfu Fu (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nYilun Sun (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nMireya Diaz-Insua (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nThomas E. Love (Department of Population & Quantitative Health Sciences, Case Western Reserve University)\nYeunjoo E. Song (Department of Population & Quantitative Health Sciences, Case Western Reserve University)"
-  },
-  {
-    "objectID": "index.html#local-organizing-committee",
-    "href": "index.html#local-organizing-committee",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Local Organizing Committee:",
-    "text": "Local Organizing Committee:\n\nLiangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song, Jonathan Haines from Department of Population & Quantitative Health Sciences, Case Western Reserve University.\nWeihong Guo from Department of Mathematics, Applied Mathematics, and Statistics, Case Western Reserve University.\nAndy Ni from Division of Biostatistics, College of Public Health, The Ohio State University."
-  },
-  {
-    "objectID": "index.html#detailed-schedule",
-    "href": "index.html#detailed-schedule",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "Detailed schedule",
-    "text": "Detailed schedule"
-  },
-  {
-    "objectID": "Registration/index.html#symposium-registration",
-    "href": "Registration/index.html#symposium-registration",
-    "title": "Registration",
-    "section": "Symposium Registration",
-    "text": "Symposium Registration\nResearchers from all institutions are welcome to register; however, please note that in-person attendance is required. Complimentary lunch will be provided for reservations made by March 12. The registration link is attached in the bottom of home page, you can also register here: Click here to register for Symposium 2025!."
-  },
-  {
-    "objectID": "Registration/index.html#poster-registration",
-    "href": "Registration/index.html#poster-registration",
-    "title": "Registration",
-    "section": "Poster Registration",
-    "text": "Poster Registration\nWe wholeheartedly encourage every researchers to participate and showcase their innovative work, and we welcome institutions across the region to join in. Don’t miss out on this exciting opportunity to present your research and gain valuable recognition! If you want to participate poster session, please click here and register by March 12. All researchers, including faculty, professionals, students and trainees, are encouraged to submit and present a poster at the symposium. But to ensure a fair comparison, only students and postdoctoral researchers will be considered for the poster award competition this year.\n\nPlease register the symposium before March 12th! If you are interested in poster session, please submit the poster session registration before March 12th!"
-  },
-  {
-    "objectID": "index.html#detailed-agenda",
-    "href": "index.html#detailed-agenda",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Detailed agenda",
-    "text": "Detailed agenda"
-  },
-  {
-    "objectID": "index.html#address-and-parking",
-    "href": "index.html#address-and-parking",
-    "title": "2025 Northeast Ohio Joint Biostatistics Symposium",
-    "section": "Address and Parking",
-    "text": "Address and Parking\n\nDirections to the Venue\nTinkham Veale University Center, Case Western Reserve University\n📍 11038 Bellflower Road, Cleveland, OH 44106\nDirections to the Parking Lot S-29\n📍 11172 East Boulevard, Cleveland, Ohio 44106"
-  },
-  {
-    "objectID": "index.html#symposium-organizing-committee",
-    "href": "index.html#symposium-organizing-committee",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Symposium Organizing Committee:",
-    "text": "Symposium Organizing Committee:\n\nLiangliang Zhang, Xiaofeng Zhu, Ming Wang, Lijun Zhang, Holly Hartman, Jeffery M. Albert, Abdus Sattar, Hao Feng, Pingfu Fu, Yilun Sun, Mireya Diaz-Insua, Thomas E. Love ,Yeunjoo E. Song, Jonathan Haines, Sudha K. Iyengar from Department of Population & Quantitative Health Sciences, Weihong Guo from Department of Mathematics, Applied Mathematics, and Statistics, Case Western Reserve University."
-  },
-  {
-    "objectID": "index.html#invited-speaker",
-    "href": "index.html#invited-speaker",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Invited Speaker:",
-    "text": "Invited Speaker:\n\nHolly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University.\nChristopher Boyer from Department of Quantitative Health Sciences, Cleveland Clinic.\nAndy Ni from Division of Biostatistics, College of Public Health, The Ohio State University."
-  },
-  {
-    "objectID": "index.html#institution-speaker",
-    "href": "index.html#institution-speaker",
-    "title": "2025 Joint Biostatistics Symposium",
-    "section": "Institution Speaker:",
-    "text": "Institution Speaker:\n\nChristopher Boyer from Department of Quantitative Health Sciences, Cleveland Clinic.\nAndy Ni from Division of Biostatistics, College of Public Health, The Ohio State University.\nHolly Hartman from Department of Population & Quantitative Health Sciences, Case Western Reserve University."
-  },
-  {
-    "objectID": "institution/index.html",
-    "href": "institution/index.html",
-    "title": "Institution Speaker",
-    "section": "",
-    "text": "Dr. Christopher Boyer\n\nDr. Christopher Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.\n\nTitle: Counterfactual prediction: A framework for estimation, validation, and transportability of models under hypothetical interventions\nAbstract: Counterfactual prediction methods are required when a model will be deployed in a setting where treatment policies differ from the setting where the model was developed, or when a model provides predictions under hypothetical interventions to support decision-making. However, estimating and evaluating counterfactual prediction models is challenging because, unlike traditional (factual) prediction, one does not observe the full set of potential outcomes for all individuals. Here, we discuss how to fit or tailor a model to target a counterfactual estimand, how to assess the model’s performance, and how to perform model and tuning parameter selection when (1) data are available from a randomized trial in a source population that differs from the target population in which the model will be deployed, (2) data are available from an observational study conducted in the target population, or (3) both are available. We provide identifiability and estimation results for building a counterfactual prediction model and for multiple measures of counterfactual model performance including loss-based measures, the area under the receiver operating characteristics curve, and calibration. Importantly, our results allow valid estimates of model performance under counterfactual intervention even if the candidate model is misspecified, permitting a wider array of use cases. We illustrate these methods using simulation and apply them to representative counterfactual prediction tasks in cardiovascular disease."
-  },
-  {
-    "objectID": "institution/index.html#christoph-boyer",
-    "href": "institution/index.html#christoph-boyer",
-    "title": "Institution Speaker",
-    "section": "",
-    "text": "Christoph Boyer\n\n\nDr. Christoph Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions."
-  },
-  {
-    "objectID": "institution/index.html#andy-ni",
-    "href": "institution/index.html#andy-ni",
-    "title": "Institution Speaker",
-    "section": "Andy Ni",
-    "text": "Andy Ni\n\n\n\n\n\n\nDr. Andy Ni\n\nDr. Andy Ni is an assistant professor from Division of Biostatistics, College of Public Health, The Ohio State University. Dr. Ni’s main research interests are in the individualized treatment regimen estimation with survival outcomes. He is also interested in regularized variable selection and causal inference under two-stage sampling designs with survival outcome. He collaborates with faculties from multiple colleges at OSU and Nationwide Children’s Hospital on the design and analysis of various observational studies and clinical trials.\n\nTitle: Contrast Weighted Learning for Individualized Treatment Rule Estimation\nAbstract: Precision medicine aims to tailor medical decisions based on patient-specific characteristics. An individualized treatment rule (ITR) assigns an optimal treatment to a patient based on their personal characteristics. An archetypal ITR estimation approach is outcome-weighted learning (OWL) based on a weighted classification framework with clinical outcomes as the weights. Existing OWL methods are susceptible to irregularities of outcome distributions, such as outliers and heavy tails. Moreover, it is unclear how these methods can be used for multivariate survival outcomes that are commonly encountered in cancer and cardiovascular research. In this study, we propose contrast-weighted learning (CWL) for ITR estimation. CWL exploits the flexibility and robustness of contrast functions between pairs of patients to enable robust ITR estimation for a wide range of clinical outcomes. By introducing win status into the contrast function, CWL naturally handles multivariate survival outcomes while incorporating the clinical importance of different events into ITR estimation. We established the theoretical properties of the estimated ITR. We conducted simulations to evaluate the finite sample performance of CWL in comparison to several alternative ITR estimation methods. Finally, we apply the proposed CWL method to three real datasets to demonstrate its real-world application."
-  },
-  {
-    "objectID": "institution/index.html#holly-hartman",
-    "href": "institution/index.html#holly-hartman",
-    "title": "Institution Speaker",
-    "section": "Holly Hartman",
-    "text": "Holly Hartman\n\n\n\n\n\n\nDr. Holly Hartman\n\nDr. Holly Hartman is an assistant professor from Department of Population & Quantitative Health Sciences, Case Western Reserve University. Dr. Hartman’s research interests are focused on guiding patient care. She brings her strong statistical background to the design and analysis of clinical trials.\n\nTitle: Sequential, Multiple Assignment, Randomized Trials (SMARTs) with continuous outcomes and tailoring functions\nAbstract: Multi-stage trials like sequential, multiple assignment, randomized trials (SMARTs) have typically relied on a binary variable to define response which is used in assigning the next stage treatment assignment. Instead, we develop a function of a continuous outcome to assign a probability of staying on the same treatment and then randomly assign the next treatment using a multinomial distribution. First, we develop a new trial design for small sample SMARTs (snSMARTs). The overall goal of the trial is to determine the optimal first stage treatment. We use a function, called the mapping function, to map the first stage outcome to a probability of staying on the same treatment and Bayesian regression methods to analyze data from both stages. Re-randomization based on a mapping function of a continuous outcome allows for snSMARTs to be conducted without requiring a binary outcome. Next, we apply similar concepts to a standard size SMART with continuous outcomes where the goal is to determine the optimal dynamic treatment regimen (DTR). We present a new trial design for SMARTs that use a tailoring function instead of a binary tailoring variable. In this trial design, we simultaneously develop a tailoring variable and estimate the DTR. We perform simulation studies to compare the proposed design with continuous outcomes to standard designs with binary outcomes. The proposed designs results in more efficient treatment effect estimates and similar or better outcomes for trial patients."
-  },
-  {
     "objectID": "poster/index.html",
     "href": "poster/index.html",
     "title": "Poster Competition",
     "section": "",
     "text": "Three Joint Biostatistics Symposium Poster Awards will be given to honor student and post-doctoral participants presenting their work during the Lunch and Poster Session at the Symposium. Each Poster Award winner will receive a certificate and a gift card.\n\n\n\nWho Can Apply:\nAll researchers—including faculty, professionals, students, and trainees—are encouraged to submit and present a poster at the Symposium.\nPoster Competition Eligibility:\nThe competition is restricted to students and postdoctoral researchers. To be eligible, a participant must be a student or postdoctoral researcher who is the first author of the poster.\nRequirements:\n\nRegister for the Symposium by March 12, 2025.\nSubmit an abstract for the poster session by March 12, 2025, and indicate your interest in participating in the Poster Competition.\nAn email will be sent approximately one week before the meeting requesting an electronic version of your poster, allowing judges to review the visual presentation and research in advance.\nPresent your poster in person on Monday, April 7, 2025, between noon and 1:00 PM at the Symposium.\nAs per our guidelines, each participant can present only one abstract and be considered for the poster award.\n\n\n\n\n\n\nAbstract Submission Deadline:\nAll abstracts must be submitted by 11:59 p.m. ET on March 12, 2025.\nAll complete poster slides must be submitted by 12:00 p.m. ET on March 31, 2025\nSubmission Portal:\nSubmit your abstract through the online form.\nSubmit your complete poster slides through the website.\nCompetition Participation:\nIndicate your interest in the Poster Competition by selecting “YES” in the relevant section of the submission form.\nRegistration Requirement:\nParticipants are required to register for the Symposium prior to submission. Register here.\n\n\n\n\n\n\n\nTitle and Headings:\nUse clear and concise titles with section headings to guide viewers.\nFont Size:\nEnsure all text is legible from a distance of at least 3 feet.\nVisuals:\nIncorporate high-quality graphics, charts, and images to complement your text.\nWhite Space:\nMaintain a balanced layout with adequate white space to enhance readability.\n\n\n\n\n\nIntroduction:\nProvide background and clearly state your research question or hypothesis.\nMethods:\nSummarize your methodology concisely.\nResults:\nHighlight key findings using visual aids (charts, graphs, tables).\nConclusion:\nDiscuss implications, potential applications, and future directions.\n\nFor detailed guidance on creating effective posters, refer to the Guide to Effective Poster Design.\nBy following these guidelines, participants can ensure a smooth submission process and improve their chances of success in the Poster Competition."
-  },
-  {
-    "objectID": "poster/index.html#overview",
-    "href": "poster/index.html#overview",
-    "title": "Poster Competition",
-    "section": "",
-    "text": "The Top Three Poster Competition Awards recognize outstanding poster presentations during the Lunch and Poster Session at the Joint Biostatistics Symposium. Each winner will receive a certificate and a gift card."
   },
   {
     "objectID": "poster/index.html#eligibility",
@@ -259,25 +168,11 @@
     "text": "Abstract Submission Deadline:\nAll abstracts must be submitted by 11:59 p.m. ET on March 12, 2025.\nAll complete poster slides must be submitted by 12:00 p.m. ET on March 31, 2025\nSubmission Portal:\nSubmit your abstract through the online form.\nSubmit your complete poster slides through the website.\nCompetition Participation:\nIndicate your interest in the Poster Competition by selecting “YES” in the relevant section of the submission form.\nRegistration Requirement:\nParticipants are required to register for the Symposium prior to submission. Register here."
   },
   {
-    "objectID": "poster/index.html#review-and-judging-criteria",
-    "href": "poster/index.html#review-and-judging-criteria",
-    "title": "Poster Competition",
-    "section": "",
-    "text": "Award winners will be selected based on an on-site evaluation during the Lunch and Poster Session.\nSession Details:\n\nDate and Time: Monday, April 7, 2025, from 11:30 a.m. to 1:00 p.m.\nPresenter Availability: Presenters should be stationed by their posters from 12:00 p.m. to 1:00 p.m.\n\nEvaluation Criteria:\n\nVisual Presentation: Clarity and organization of the poster, including clear section headings and legible content.\nVerbal Presentation: Ability to effectively communicate the research problem, methodology, and findings.\nMethodological Rigor: Strength and innovation of the methodology and its relevance to the research objectives.\n\nJudges will circulate anonymously during the session and assess posters based on the criteria above."
-  },
-  {
     "objectID": "poster/index.html#poster-preparation-tips",
     "href": "poster/index.html#poster-preparation-tips",
     "title": "Poster Competition",
     "section": "",
     "text": "Title and Headings:\nUse clear and concise titles with section headings to guide viewers.\nFont Size:\nEnsure all text is legible from a distance of at least 3 feet.\nVisuals:\nIncorporate high-quality graphics, charts, and images to complement your text.\nWhite Space:\nMaintain a balanced layout with adequate white space to enhance readability.\n\n\n\n\n\nIntroduction:\nProvide background and clearly state your research question or hypothesis.\nMethods:\nSummarize your methodology concisely.\nResults:\nHighlight key findings using visual aids (charts, graphs, tables).\nConclusion:\nDiscuss implications, potential applications, and future directions.\n\nFor detailed guidance on creating effective posters, refer to the Guide to Effective Poster Design.\nBy following these guidelines, participants can ensure a smooth submission process and improve their chances of success in the Poster Competition."
-  },
-  {
-    "objectID": "institution/index.html#christopher-boyer",
-    "href": "institution/index.html#christopher-boyer",
-    "title": "Institution Speaker",
-    "section": "",
-    "text": "Dr. Christopher Boyer\n\nDr. Christopher Boyer is an assistant professor from Department of Quantitative Health Sciences, Cleveland Clinic. He is interested in causal inference, deep learning, and epidemiology applied to infectious diseases with extensive experience running randomized controlled trials of social and public health interventions.\n\nTitle: Counterfactual prediction: A framework for estimation, validation, and transportability of models under hypothetical interventions\nAbstract: Counterfactual prediction methods are required when a model will be deployed in a setting where treatment policies differ from the setting where the model was developed, or when a model provides predictions under hypothetical interventions to support decision-making. However, estimating and evaluating counterfactual prediction models is challenging because, unlike traditional (factual) prediction, one does not observe the full set of potential outcomes for all individuals. Here, we discuss how to fit or tailor a model to target a counterfactual estimand, how to assess the model’s performance, and how to perform model and tuning parameter selection when (1) data are available from a randomized trial in a source population that differs from the target population in which the model will be deployed, (2) data are available from an observational study conducted in the target population, or (3) both are available. We provide identifiability and estimation results for building a counterfactual prediction model and for multiple measures of counterfactual model performance including loss-based measures, the area under the receiver operating characteristics curve, and calibration. Importantly, our results allow valid estimates of model performance under counterfactual intervention even if the candidate model is misspecified, permitting a wider array of use cases. We illustrate these methods using simulation and apply them to representative counterfactual prediction tasks in cardiovascular disease."
   },
   {
     "objectID": "remarks/index.html",
@@ -315,10 +210,10 @@
     "text": "Stan Gerson\n\n\n\n\n\n\nDr. Stan Gerson\n\nDean, School of Medicine\nSenior Vice President for Medical Affairs\nDirector, National Center for Regenerative Medicine\nProfessor, Department of Medicine\nProfessor, Department of Environmental Health Sciences\nMember, Immune Oncology Program, Case Comprehensive Cancer Center\nDr. Stan Gerson is the Dean and Senior Vice President for Medical Affairs at Case Western Reserve University School of Medicine, where he is the Asa and Patricia Shiverick–Jane Shiverick (Tripp) Professor of Hematological Oncology and Case Western Reserve University Distinguished University Professor. In 2012, he was the recipient of the Case Western Reserve Medal for Excellence in Health Science Innovation, the highest honor bestowed by the School of Medicine to those advancing research, education and health care. He is the past president of the Association of American Cancer Institutes (2016-2018) and a member of the American Association of Physicians since 1997, and has been a member and Chair of numerous NIH study sections, including the National Cancer Institute (NCI) Board of Scientific Advisors. He serves on the Executive Advisory Board of 11 NCI-designated cancer centers. He has earned multiple National Institutes of Health (NIH) grants and published more than 258 journal articles, 275 abstracts, 37 book chapters and 18 patents. Dr. Gerson has distinguished himself in a number of realms, including his research in DNA repair and stem cell therapy, which has resulted in numerous publications and patents. Three of his discoveries are in clinical trials as new cancer therapies. He is also the co-editor of the internationally recognized textbook, “Gene Therapy of Cancer Translational Approaches from Preclinical Studies to Clinical Implementation 3” (Elsevier Limited, Oxford, United Kingdom) and the textbook “Clinical Hematology.” Dr. Gerson is foremost, a mentor and educator for the next generation of compassionate cancer research scientists and clinicians."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2025 Joint Biostatistics Symposium",
+    "objectID": "speaker.html",
+    "href": "speaker.html",
+    "title": "Keynote Speaker",
     "section": "",
-    "text": ". ."
+    "text": "Meet Our Keynote Speaker: Dr. Jeff Leek\n\n\n\nDr. Jane Smith\n\n\nDr. Jane Smith is a distinguished biostatistician known for his engaging style and ability to reach a diverse audience. Currently serving as Vice President and Chief Data Officer at Fred Hutchinson Cancer Center, he received the COPSS Presidents’ Award in 2021. Jeff Leek is also renowned for his online educational efforts and his advocacy for developing a Comprehensive Resource for the Study of Human Gene Expression using Machine Learning and Data Science.\n“The Future of [Your Topic]”\nDon’t miss this inspiring talk!\nBack to Home"
   }
 ]
