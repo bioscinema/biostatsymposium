@@ -11,7 +11,7 @@ format: html
 Dr. Jeff Leek
 :::
 
-## Dr. Jeff Leek
+## Jeff Leek, Ph.D.
 
 **Title & Affiliation**\
 Vice President and Chief Data Officer Fred Hutch

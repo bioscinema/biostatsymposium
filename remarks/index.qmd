@@ -5,7 +5,7 @@ format: html
 
 # Opening Remarks
 
-## J. Michael Oakes
+## J. Michael Oakes, Ph.D.
 
 ![](images/Oakes%20-%20headshot.jpeg){.rounded fig-align="center" width="250"}
 
@@ -21,7 +21,7 @@ Dr. J. Michael Oakes
 
 Dr. Michael Oakes, Case Western Reserve University's inaugural Senior Vice President for Research and Technology Management, is a distinguished leader overseeing a robust \$550M+ research and technology transfer program, including the university's forthcoming \$300M Interdisciplinary Science and Engineering Building and technology start-up incubator. As the Veale Professor of Technology Transfer and Commercialization Chair and a tenured Professor of Population and Quantitative Health Sciences, Dr. Oakes has a proven track record in catalyzing research growth and innovation---having previously served as interim VP for Research at the University of Minnesota and achieved a 31% increase in research funding through COVID-19 initiatives. A renowned applied statistician and social epidemiologist, he has published over 150 scientific papers, co-authored a leading textbook, and founded the Robert Wood Johnson Foundation's Interdisciplinary Research Leaders program, all while advancing collaborative, interdisciplinary research in methods, social epidemiology, and research ethics.
 
-## Gary Schwartz
+## Gary Schwartz, Ph.D.
 
 ![](images/Schwartz-Gary.webp){.rounded fig-align="center" width="250"}
 
@@ -39,7 +39,7 @@ Dr. Gary Schwartz is the Director of the Case Comprehensive Cancer Center (Case 
 
 # Poster Award Presentation and Remarks
 
-## Jonathan Haines
+## Jonathan Haines, Ph.D.
 
 ![](images/Jonathan%20Haines%20cropped.png){.rounded fig-align="center" width="250"}
 
@@ -61,7 +61,7 @@ Dr. Jonathan Haines is an internationally recognized researcher and educator wit
 
 # Keynote and Closing Remarks
 
-## Stan Gerson
+## Stan Gerson, Ph.D.
 
 ![](images/gerson-stan-new.png){.rounded fig-align="center" width="250"}
 

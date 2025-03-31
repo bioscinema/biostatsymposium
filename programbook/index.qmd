@@ -1,5 +1,5 @@
 ---
-title: "Program book"
+title: "Program Book"
 output: html
 ---
 
