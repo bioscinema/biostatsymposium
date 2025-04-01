@@ -3,7 +3,7 @@ title: "Institution Speaker"
 format: html
 ---
 
-## Christopher Boyer, Ph.D.
+## Christopher Boyer, Ph.D. (10:50 am - 11:30 am)
 
 ![](images/christoph.jpg){.rounded fig-align="center" width="250"}
 
@@ -17,7 +17,7 @@ Dr. Christopher Boyer is an assistant professor from Department of Quantitative 
 
 -   **Abstract**: Counterfactual prediction methods are required when a model will be deployed in a setting where treatment policies differ from the setting where the model was developed, or when a model provides predictions under hypothetical interventions to support decision-making. However, estimating and evaluating counterfactual prediction models is challenging because, unlike traditional (factual) prediction, one does not observe the full set of potential outcomes for all individuals. Here, we discuss how to fit or tailor a model to target a counterfactual estimand, how to assess the model's performance, and how to perform model and tuning parameter selection when (1) data are available from a randomized trial in a source population that differs from the target population in which the model will be deployed, (2) data are available from an observational study conducted in the target population, or (3) both are available. We provide identifiability and estimation results for building a counterfactual prediction model and for multiple measures of counterfactual model performance including loss-based measures, the area under the receiver operating characteristics curve, and calibration. Importantly, our results allow valid estimates of model performance under counterfactual intervention even if the candidate model is misspecified, permitting a wider array of use cases. We illustrate these methods using simulation and apply them to representative counterfactual prediction tasks in cardiovascular disease.
 
-## Andy Ni, Ph.D.
+## Andy Ni, Ph.D. (1:00 pm - 1:40 pm)
 
 ![](images/AndyNi-01.jpg){.rounded fig-align="center" width="250"}
 
@@ -31,7 +31,7 @@ Dr. Andy Ni is an assistant professor from Division of Biostatistics, College of
 
 -   **Abstract**: Precision medicine aims to tailor medical decisions based on patient-specific characteristics. An individualized treatment rule (ITR) assigns an optimal treatment to a patient based on their personal characteristics. An archetypal ITR estimation approach is outcome-weighted learning (OWL) based on a weighted classification framework with clinical outcomes as the weights. Existing OWL methods are susceptible to irregularities of outcome distributions, such as outliers and heavy tails. Moreover, it is unclear how these methods can be used for multivariate survival outcomes that are commonly encountered in cancer and cardiovascular research. In this study, we propose contrast-weighted learning (CWL) for ITR estimation. CWL exploits the flexibility and robustness of contrast functions between pairs of patients to enable robust ITR estimation for a wide range of clinical outcomes. By introducing win status into the contrast function, CWL naturally handles multivariate survival outcomes while incorporating the clinical importance of different events into ITR estimation. We established the theoretical properties of the estimated ITR. We conducted simulations to evaluate the finite sample performance of CWL in comparison to several alternative ITR estimation methods. Finally, we apply the proposed CWL method to three real datasets to demonstrate its real-world application.
 
-## Holly Hartman, Ph.D.
+## Holly Hartman, Ph.D. (1:50 pm - 2:30 pm)
 
 ![](images/HollyHartman-01.jpg){.rounded fig-align="center" width="250"}
 

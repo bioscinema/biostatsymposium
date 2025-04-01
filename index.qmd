@@ -51,9 +51,9 @@ We are thrilled to invite you to our annual **Joint Biostatistics Symposium**. T
 
 We look forward to welcoming you!
 
-## Keynote Speaker
+## Keynote Speaker (3:00 pm - 4:00 pm)
 
-Our keynote speaker this year is [**Dr. Jeff Leek**](https://jtleek.com/), a world-renowned biostatistician in human gene expression using machine learning and data science.
+Keynote Presentation, Supported by the Jack H. Berman, MD Lecture Endowment. Our keynote speaker this year is [**Dr. Jeff Leek**](https://jtleek.com/), a world-renowned biostatistician in human gene expression using machine learning and data science.
 
 ![Dr. Jeff Leek](Jeff.png){.center width="300px"}
 

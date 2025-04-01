@@ -2,72 +2,77 @@
 title: "Poster Competition"
 format: html
 ---
+
 # Poster Competition
 
 Three Joint Biostatistics Symposium Poster Awards will be given to honor student and post-doctoral participants presenting their work during the Lunch and Poster Session at the Symposium. Each Poster Award winner will receive a certificate and a gift card.
 
 ## Eligibility
 
-- **Who Can Apply:**  
-  All researchers—including faculty, professionals, students, and trainees—are encouraged to submit and present a poster at the Symposium.
-  
-- **Poster Competition Eligibility:**  
-  The competition is restricted to students and postdoctoral researchers. To be eligible, a participant must be a student or postdoctoral researcher who is the first author of the poster. 
+-   **Who Can Apply:**\
+    All researchers---including faculty, professionals, students, and trainees---are encouraged to submit and present a poster at the Symposium.
 
-- **Requirements:**  
-  - Register for the Symposium by March 12, 2025.
-  - Submit an abstract for the poster session by March 12, 2025, and indicate your interest in participating in the Poster Competition.
-  - An email will be sent approximately one week before the meeting requesting an electronic version of your poster, allowing judges to review the visual presentation and research in advance.
-  - Present your poster in person on Monday, April 7, 2025, between noon and 1:00 PM at the Symposium.
-  - As per our guidelines, each participant can present only one abstract and be considered for the poster award.
+-   **Poster Competition Eligibility:**\
+    The competition is restricted to students and postdoctoral researchers. To be eligible, a participant must be a student or postdoctoral researcher who is the first author of the poster.
+
+-   **Requirements:**
+
+    -   Register for the Symposium by March 12, 2025.
+    -   Submit an abstract for the poster session by March 12, 2025, and indicate your interest in participating in the Poster Competition.
+    -   An email will be sent approximately one week before the meeting requesting an electronic version of your poster, allowing judges to review the visual presentation and research in advance.
+    -   Present your poster in person on Monday, April 7, 2025, between noon and 1:00 PM at the Symposium.
+    -   As per our guidelines, each participant can present only one abstract and be considered for the poster award.
 
 ## Submission Guidelines
 
-- **Abstract Submission Deadline:**  
-  All abstracts must be submitted by **11:59 p.m. ET on March 12, 2025**.
-  
-  All complete poster slides must be submitted by **12:00 p.m. ET on March 31, 2025**
-  
-- **Submission Portal:**  
-  Submit your abstract through the [online form](https://docs.google.com/forms/d/e/1FAIpQLSetdMwOBPiGi2psZv-bDyl0oIrOypKEIot5OxC7KKEKs2PI8g/viewform?usp=header).
-  
-  Submit your complete poster slides through the [website](https://www.jotform.com/form/250814163988062).
-  
-- **Competition Participation:**  
-  Indicate your interest in the Poster Competition by selecting "YES" in the relevant section of the submission form.
-  
-- **Registration Requirement:**  
-  Participants are required to register for the Symposium prior to submission. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeFLIrPz0kwp0TFKJLpNdbs3dYRzF0t8hcry2C_JRePVRLMSw/viewform?usp=header).
+-   **Abstract Submission Deadline:**\
+    All abstracts must be submitted by **11:59 p.m. ET on March 12, 2025**.
+
+    All complete poster slides must be submitted by **12:00 p.m. ET on March 31, 2025**
+
+-   **Submission Portal:**\
+    Submit your abstract through the [online form](https://docs.google.com/forms/d/e/1FAIpQLSetdMwOBPiGi2psZv-bDyl0oIrOypKEIot5OxC7KKEKs2PI8g/viewform?usp=header).
+
+    Submit your complete poster slides through the [website](https://www.jotform.com/form/250814163988062).
+
+-   **Competition Participation:**\
+    Indicate your interest in the Poster Competition by selecting "YES" in the relevant section of the submission form.
+
+-   **Registration Requirement:**\
+    Participants are required to register for the Symposium prior to submission. Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeFLIrPz0kwp0TFKJLpNdbs3dYRzF0t8hcry2C_JRePVRLMSw/viewform?usp=header).
 
 ## Poster Preparation Tips
 
 ### Design and Layout
 
-- **Title and Headings:**  
-  Use clear and concise titles with section headings to guide viewers.
-  
-- **Font Size:**  
-  Ensure all text is legible from a distance of at least 3 feet.
-  
-- **Visuals:**  
-  Incorporate high-quality graphics, charts, and images to complement your text.
-  
-- **White Space:**  
-  Maintain a balanced layout with adequate white space to enhance readability.
+-   **Title and Headings:**\
+    Use clear and concise titles with section headings to guide viewers.
+
+-   **Font Size:**\
+    Ensure all text is legible from a distance of at least 3 feet.
+
+-   **Visuals:**\
+    Incorporate high-quality graphics, charts, and images to complement your text.
+
+-   **White Space:**\
+    Maintain a balanced layout with adequate white space to enhance readability.
+
+-   **Poster Size:** \
+    Ensure your poster fits within the designated board dimensions of 60 inches wide by 40 inches high. Your poster should be equal to or smaller than these measurements, with all text clearly legible from at least 3 feet away. A poster board has been reserved for you, and volunteers will be available on-site to assist with setup.
 
 ### Content Organization
 
-- **Introduction:**  
-  Provide background and clearly state your research question or hypothesis.
-  
-- **Methods:**  
-  Summarize your methodology concisely.
-  
-- **Results:**  
-  Highlight key findings using visual aids (charts, graphs, tables).
-  
-- **Conclusion:**  
-  Discuss implications, potential applications, and future directions.
+-   **Introduction:**\
+    Provide background and clearly state your research question or hypothesis.
+
+-   **Methods:**\
+    Summarize your methodology concisely.
+
+-   **Results:**\
+    Highlight key findings using visual aids (charts, graphs, tables).
+
+-   **Conclusion:**\
+    Discuss implications, potential applications, and future directions.
 
 For detailed guidance on creating effective posters, refer to the [Guide to Effective Poster Design](https://www.anl.gov/education/guide-to-effective-poster-design).
 
