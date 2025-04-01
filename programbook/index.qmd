@@ -1,6 +1,6 @@
 ---
 title: "Program Book"
-permalink: /programbook/
+format: html
 ---
 
 ## 📘 Program Book Preview
