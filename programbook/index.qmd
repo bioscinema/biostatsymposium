@@ -1,10 +1,13 @@
 ---
 title: "Program Book"
-output: html
+permalink: /programbook/
 ---
 
-## Program book Preview
+## 📘 Program Book Preview
+
+<!-- <p>If the PDF is not scrollable on your phone, please <a href="BiostatsSymposiumAgenda.pdf" target="_blank">click here to view or download it directly</a>.</p> -->
 
 <embed src="BiostatsSymposiumAgenda.pdf" type="application/pdf" width="120%" height="800px" />
 
-[📥 Download PDF](BiostatsSymposiumAgenda.pdf)
+<p><a href="BiostatsSymposiumAgenda.pdf" download>📥 Download PDF</a></p>
+
