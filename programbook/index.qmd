@@ -5,9 +5,10 @@ permalink: /programbook/
 
 ## 📘 Program Book Preview
 
-<!-- <p>If the PDF is not scrollable on your phone, please <a href="BiostatsSymposiumAgenda.pdf" target="_blank">click here to view or download it directly</a>.</p> -->
+<object data="BiostatsSymposiumAgenda.pdf" type="application/pdf" width="100%" height="800px">
+  <p>Your browser does not support PDFs. <a href="BiostatsSymposiumAgenda.pdf">Download the PDF</a>.</p>
+</object>
 
-<embed src="BiostatsSymposiumAgenda.pdf" type="application/pdf" width="120%" height="800px" />
 
 <p><a href="BiostatsSymposiumAgenda.pdf" download>📥 Download PDF</a></p>
 
