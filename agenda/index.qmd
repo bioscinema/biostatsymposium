@@ -11,41 +11,50 @@ format: html
 
 -   **10:00 am** - Registration and Poster Set up
 
----
+------------------------------------------------------------------------
 
--   **10:30 am** - Opening remarks and introduction: **Gary Schwartz, J.Michael Oakes**
+-   **10:30 am** - Opening remarks and introduction: **Gary Schwartz, Director of Case Comprehensive Cancer Center; J.Michael Oakes, Senior Vice President of Research**
 
----
+------------------------------------------------------------------------
 
--   **10:50 am -- 11:30 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer**
+-   **10:50 am -- 11:30 am** - **Speaker from Cleveland Clinic Lerner College of Medicine: Christopher Boyer, Ph.D.**
 
----
+    **Title: Counterfactual prediction: A framework for estimation,validation, and transportability of models underhypothetical interventions.**
+
+------------------------------------------------------------------------
 
 -   **11:30 am -- 1:00 pm** - **Lunch and Poster Session**
 
----
+------------------------------------------------------------------------
 
 ### **Afternoon Session**
 
--   **1:00 pm -- 1:40 pm** - **Speaker from The Ohio State University: Andy Ni**
+-   **1:00 pm -- 1:40 pm** - **Speaker from The Ohio State University: Andy Ni, Ph.D.**
 
----
+    **Title: Contrast Weighted Learning for Individualized
+Treatment Rule Estimation**
+
+------------------------------------------------------------------------
 
 -   **1:40 pm -- 1:50 pm** - Break
 
----
+------------------------------------------------------------------------
 
--   **1:50 pm -- 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman**
+-   **1:50 pm -- 2:30 pm** - **Speaker from Case Western Reserve University: Holly Hartman, Ph.D.** - 
 
----
+    **Title: Title: Sequential, Multiple Assignment, Randomized Trials
+(SMARTs) with continuous outcomes and tailoring
+functions**
+
+------------------------------------------------------------------------
 
 -   **2:30 pm -- 2:40 pm** - Break
 
----
+------------------------------------------------------------------------
 
 -   **2:40 pm -- 2:50 pm** - Poster Awards and Remarks: **Jonathan Haines**
 
----
+------------------------------------------------------------------------
 
 -   **2:50 pm -- 3:00 pm** - Remarks and Keynote Speaker introduction: **Dean Stan Gerson**
 
@@ -53,14 +62,14 @@ format: html
 
 -   **3:00 pm -- 4:00 pm**\
     **Jeff Leek**, Chief Data Officer, Vice President, and J. Orin Edson Foundation Chair of Biostatistics at the Fred Hutchinson Cancer Center\
-    **Presentation title:** *"Building an oncology AI engine at the Fred Hutch and beyond"*
+    **Title:** *Building an oncology AI engine at the Fred Hutch and beyond*
 
 ------------------------------------------------------------------------
 
 ### **Directions to the Venue**
 
 **Tinkham Veale University Center, Case Western Reserve University**\
-📍 **[11038 Bellflower Road, Cleveland, OH 44106](https://www.google.com/maps/place/11038+Bellflower+Rd,+Cleveland,+OH+44106/@41.5087073,-81.6085641,17z/data=!3m1!4b1!4m6!3m5!1s0x8830fb894d9d3bfb:0xa4fcaa37117d4243!8m2!3d41.5087073!4d-81.6085641!16s%2Fg%2F11c2h86rtz?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)**
+📍 [**11038 Bellflower Road, Cleveland, OH 44106**](https://www.google.com/maps/place/11038+Bellflower+Rd,+Cleveland,+OH+44106/@41.5087073,-81.6085641,17z/data=!3m1!4b1!4m6!3m5!1s0x8830fb894d9d3bfb:0xa4fcaa37117d4243!8m2!3d41.5087073!4d-81.6085641!16s%2Fg%2F11c2h86rtz?hl=zh-hans-us&entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)
 
 ### **Directions to the Parking Lot S-29**
 
