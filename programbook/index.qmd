@@ -9,6 +9,9 @@ format: html
 <!--   <p>Your browser does not support PDFs. <a href="BiostatsSymposiumAgenda.pdf">Download the PDF</a>.</p> -->
 <!-- </object> -->
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRrdZCuWpcOK8v-DxG1arIKAHlaUXgEOELKgzUNTeXQRbxDlAWzWH4T6Ob9IMLuQQ/pub?embedded=true" width="100%" height="800px"></iframe>
+
+<!-- <iframe src="https://docs.google.com/document/d/e/2PACX-1vRrdZCuWpcOK8v-DxG1arIKAHlaUXgEOELKgzUNTeXQRbxDlAWzWH4T6Ob9IMLuQQ/preview" width="100%" height="600px"></iframe> -->
+
 <!-- <iframe src="BiostatsSymposiumAgenda.pdf" width="100%" height="800px" style="border: none;"> -->
 <!--     This browser does not support PDFs. Please download the PDF to view it: <a href="BiostatsSymposiumAgenda.pdf">Download PDF</a>. -->
 <!-- </iframe> -->
